@@ -1,4 +1,4 @@
-baseURL = "http://alexhyang.github.io/blog"
+baseURL = "http://alexhyang.github.io"
 languageCode = "en-us"
 title = "Alex Yang"
 theme = "mini"
