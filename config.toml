@@ -1,0 +1,7 @@
+baseURL = "http://alexhyang.github.io/blog"
+languageCode = "en-us"
+title = "Alex Yang"
+theme = "mini"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
