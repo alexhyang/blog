@@ -21,7 +21,7 @@ hasCJKLanguage = true
 # Social links in footer, support github,twitter,stackoverflow,facebook
 [social]
    # e.g.
-   github = "github.com/alexhyang"
+   github = "https://github.com/alexhyang"
    # twitter: your-github-link
    # stackoverflow: your-github-link
    # facebook: your-facebook-link
@@ -32,11 +32,11 @@ hasCJKLanguage = true
    # Site Author
    author = "Author"
    # Author biography
-   bio = "Software Engineer"
+   bio = "Front End Developer"
    # Site Description, used in HTML meat
    description = "My Blog"
-   enableRSS = true
+   enableRSS = false
    # To enable comments, you may need to set `disqusShortname`
-   enableComments = true
+   enableComments = false
    # To enable comments, you may need to set `googleAnalytics`
-   enableGoogleAnalytics = true
+   enableGoogleAnalytics = false
