@@ -1,2 +1,2 @@
 # alexhyang.github.io
-My blog site
+My Hugo blog site
