@@ -1,7 +1,7 @@
 ---
 title: "MIT OCW Collection"
 date: 2021-06-27T19:33:40-07:00
-draft: false
+draft: true
 author: "Alex"
 tags: ["online courses"]
 categories: ["course"]
