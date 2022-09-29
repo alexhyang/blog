@@ -1,6 +1,6 @@
 baseURL = "http://alexhyang.github.io"
 languageCode = "en-us"
-title = "Some of My Research Notes"
+title = "Some Research Notes"
 
 [taxonomies]
    tag = "tags"
@@ -38,7 +38,6 @@ hasCJKLanguage = true
   main = [
     {Name = "Posts", URL = "/posts/"},
     {Name = "Tags", URL = "/tags/"},
-    {Name = "Github", URL = "https://github.com/alexhyang/"},
   ]
 
 [params]
