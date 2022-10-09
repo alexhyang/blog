@@ -1,6 +1,6 @@
-baseURL = "http://alexhyang.github.io"
+baseURL = "https://sleepyalex.ca"
 languageCode = "en-us"
-title = "Some Research Notes"
+title = "Alex's Notes"
 
 [taxonomies]
    tag = "tags"
@@ -51,6 +51,6 @@ hasCJKLanguage = true
    # To enable comments, you may need to set `disqusShortname`
    enableComments = false
    # To enable comments, you may need to set `googleAnalytics`
-   enableGoogleAnalytics = false
+   enableGoogleAnalytics = true
   
    themeColor = "theme-base-0d"
