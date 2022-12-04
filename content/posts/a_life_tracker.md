@@ -13,7 +13,8 @@ Life repeats itself over and over, but taking control of one's own life is never
 | Title | Start Date | Finish Date | Rating |
 | ------ | ------ | ------ | ------ | 
 | [极简音乐史](https://book.douban.com/subject/27085977/) | 2022-11-23 | 2022-12-2 | ⭐⭐⭐⭐⭐ |
-| [余下的只有噪音](https://book.douban.com/subject/34978358/) | 2022-12-2 | 202[..]-[..]-[..] |  |
+| [余下的只有噪音](https://book.douban.com/subject/34978358/) | 2022-12-2 | 202_ - __ - __ |  |
+| [第二基地](https://book.douban.com/subject/26389894/) | 2022-12-3 | 202_ - __ - __ |  |
 
 # Articles
 | Title | Date | Publish Date | Notes |
