@@ -10,10 +10,10 @@ Life repeats itself over and over, but taking control of one's own life is never
 
 
 ## Books
-| Start Date | Finish Date | Title/MLA9 |
+| Start Date | Finish Date | Title/[MLA9](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html) |
 | ---- | ---- | ---- |
 | 2022-12-10 | | Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990. |
-| 2022-12-10 | | [社会心理学](https://book.douban.com/subject/1476651/) |
+| 2022-12-10 | | Myers, David G,. and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019. |
 |  | | [余下的只有噪音](https://book.douban.com/subject/34978358/) |
 |  | | [基地前奏](https://book.douban.com/subject/26389893/) |
 |  | | [2001太空漫游](https://book.douban.com/subject/30471298/) |
