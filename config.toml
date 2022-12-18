@@ -13,7 +13,8 @@ hasCJKLanguage = true
 [module]
 [[module.imports]]
   # path = "github.com/spf13/hyde"
-  path = "github.com/vimux/blank"
+  # path = "github.com/vimux/blank"
+  path = "github.com/alexhyang/blank"
 
 # Hugo Configure Markup
 # see: https://gohugo.io/getting-started/configuration-markup#highlight
