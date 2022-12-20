@@ -1,9 +1,8 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
-author: "Alex"
-tags:
-categories: ["cs"]
----
++++
+title = "{{ replace .Name "_" " " | title }}"
+date = {{ .Date }}
+draft = true
+author = "Alex"
+categories = ["cs"]
++++
 
