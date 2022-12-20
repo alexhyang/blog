@@ -16,6 +16,7 @@ Life repeats itself over and over, but taking control of one's own life is never
 | 2022-12-14 | | [2001太空漫游](https://book.douban.com/subject/30471298/) |
 |  | | [余下的只有噪音](https://book.douban.com/subject/34978358/) |
 |  | | [基地前奏](https://book.douban.com/subject/26389893/) |
+|  | | [索拉里斯星](https://book.douban.com/subject/35049755/) |
 
 | Start Date | Finish Date | Title | Rating ★☆ |
 | ------ | ------ | ------ | ------ | 
