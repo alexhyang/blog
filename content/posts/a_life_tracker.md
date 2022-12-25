@@ -32,13 +32,22 @@ Refs ([MLA9](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_form
 | Title | Author | Tags |
 | ------ | ------ | ------ |
 | [Catch Me in the Wild](https://nananadanada.substack.com/) | Nana | writing |
-| [HuoJu's Blog](https://nananadanada.substack.com/) | HuoJu | tech, open-source |
+| [HuoJu's Blog](https://jhuo.ca/) | HuoJu | tech, Internet, open-source |
 | [Wait But Why](https://waitbutwhy.com/) | Tim Urban | long-posts |
 | [xkcd](https://xkcd.com/) | Randall Munroe | webcomic |
 | [What's new](https://terrytao.wordpress.com/) | Terence Tao | math |
 | [不如读书](https://wuyagege.substack.com/) | wuyagege | history, politics |
 | ------ | ------ | ------ |
 
+## YouTube channels
+| Channel | Producer | Tags |
+| ------ | ------ | ------ |
+| [3Blue1Brown](https://www.youtube.com/@3blue1brown) | Grant Sanderson | math |
+| [Richard E. Borcherds](https://www.youtube.com/@richarde.borcherds7998) | Richard E. Borcherds | graduate math |
+| [CGP Grey](https://www.youtube.com/@CGPGrey) | Colin G.P. Grey | various topics |
+| [Tom Scott](https://www.youtube.com/@TomScottGo) | Tom Scott | various topics |
+| [Computerphile](https://www.youtube.com/@Computerphile) | Sean Riley | computer science |
+| [Nami's life](https://www.youtube.com/@naminokurashi) | Nami | vlog |
 
 ## Articles
 | Title | Date | Publish Date | Notes |
