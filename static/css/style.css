@@ -1,66 +1,131 @@
+/* || General styles */
+:root {
+  --link-color: #5badf0;
+  --link-hover-color: #0366d6;
+  /*
+  --link-color: #1e5b8d;
+  --link-hover-color: #2913f1;
+  */
+  --post-text-color: #666;
+  --background-color: #404040;
+}
 body {
   line-height: 1;
   font: normal 16px/1.5em 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #404040;
-  line-height: 1.75;
+  color: var(--background-color);
+  line-height: 1.5;
   letter-spacing: 0.008em;
   padding: 0 5%;
 }
 
-@media screen and (min-width: 480px) {
-  body {
-    padding: 0 10%;
+a {
+  text-decoration: none;
+  color: var(--link-color);
+}
+a:hover {
+  color: var(--link-hover-color);
+}
+/* ... */
+
+/* || Typography */
+h1,
+h2,
+h3 {
+  font-weight: 400;
+}
+h1:hover a,
+h2:hover a,
+h3:hover a,
+h4:hover a { 
+  visibility: visible;
+}
+p {
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+}
+/* ... */
+
+/* || Header and Main Navigation */
+nav.navigation {
+  padding: 20px 20px 0;
+  background: #fff;
+  background: rgba(255, 255, 255, 0.9);
+  margin: 0 auto;
+  text-align: right;
+  z-index: 100;
+}
+
+nav.navigation a {
+  top: 8px;
+  right: 6px;
+  padding: 8px 12px;
+  color: var(--link-color);
+  font-size: 13px;
+  line-height: 1.35;
+  border-radius: 3px;
+}
+nav.navigation a:hover {
+  color: var(--link-hover-color);
+}
+
+@media (max-width: 700px) {
+  nav.navigation {
+    padding: 20px 10px 0 0;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.9);
+    margin: 0 auto;
+    text-align: right;
+    z-index: 100;
+  }
+  nav.navigation a {
+    top: 8px;
+    right: 6px;
+    padding: 8px 8px;
+    color: var(--link-color);
+    font-size: 13px;
+    line-height: 1.35;
+    border-radius: 3px;
   }
 }
+/* ... */
 
-@media screen and (min-width: 768px) {
-  body {
-    padding: 0 15%;
-  }
+/* || Blog Post */
+article.post {
+  color: var(--post-text-color);
 }
 
-@media screen and (min-width: 1280px) {
-  body {
-    padding: 0 25%;
-  }
+header.post-header{
 }
-
-article {
-  color: #666;
-}
-
-article h1 {
+h1.post-title {
   font-size: 27px;
   margin-bottom: 0;
-  color: #404040;
+  color: var(--background-color);
 }
-
-article>time {
+a.post-link {
+}
+div.post-meta>time {
   display: block;
   margin-bottom: 15px;
 }
 
-a {
-  text-decoration: none;
-  color: #5badf0;
+div.post-content {}
+div.post-summary {}
+div.read-more {}
+a.read-more-link {}
+
+div.post-footer {}
+div.post-tags a::before {
+  content: "#";
+}
+div.post-tags a::after {
+  content: " ";
 }
 
-a:hover {
-  color: #0366d6;
-}
-
-/* header styles */
-header {
-  font-size: 20px;
+nav#TableOfContents>ul {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
 }
-
-header>a {
-  font-size: 32px;
-}
-
+/* ... */
 
 /* markdown content styles */
 blockquote {
@@ -91,7 +156,7 @@ table {
 }
 
 table tbody {
-  color: #666;
+  color: var(--post-text-color);
 }
 
 th, td {
@@ -126,16 +191,6 @@ tr:nth-child(odd)>td {
   background: #fcfcfc;
 }
 
-h1,
-h2,
-h3 {
-  font-weight: 400;
-}
-p {
-  margin-block-start: 1.5em;
-  margin-block-end: 1.5em;
-}
-/*p, */
 pre {
   line-break: anywhere;
   word-break: break-all;
@@ -147,12 +202,6 @@ pre {
   font-size: 100%; 
   visibility: hidden; 
   color:silver;
-}
-h1:hover a,
-h2:hover a,
-h3:hover a,
-h4:hover a { 
-  visibility: visible
 }
 .highlight pre {
   padding: 7px;
@@ -177,77 +226,12 @@ pre code {
   font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace;
 }
 
-
-/* navigation */
-nav {
-  margin-left: auto;
-}
-nav>ul {
-  display: flex;
-  padding: 0;
-  column-gap: 10px;
-}
-
-nav>ul>li {
-  list-style: none;
-}
-
-nav.navigation {
-  padding: 20px 20px 0;
-  background: #fff;
-  background: rgba(255, 255, 255, 0.9);
-  margin: 0 auto;
-  text-align: right;
-  z-index: 100;
-}
-
-nav.navigation a {
-  top: 8px;
-  right: 6px;
-  padding: 8px 12px;
-  color: #5badf0;
-  font-size: 13px;
-  line-height: 1.35;
-  border-radius: 3px;
-}
-nav.navigation a:hover {
-  color: #0366d6;
-}
-
-nav.navigation a.button {
-  background: #5badf0;
-  color: #fff;
-  margin-left: 12px;
-}
-@media (max-width: 700px) {
-  nav.navigation {
-    padding: 20px 10px 0 0;
-    background: #fff;
-    background: rgba(255, 255, 255, 0.9);
-    margin: 0 auto;
-    text-align: right;
-    z-index: 100;
-  }
-  nav.navigation a {
-    top: 8px;
-    right: 6px;
-    padding: 8px 8px;
-    color: #5badf0;
-    font-size: 13px;
-    line-height: 1.35;
-    border-radius: 3px;
-  }
-}
-
-@media (max-width: 324px) {
-  nav.navigation a.button {
-    display: none;
-  }
-}
-
 /* aside */
 aside {
-  display: none;
+  display: block;
+  position: fixed;
+  top: 100px;
+  left: 75%;
 }
 
 /* comment */
@@ -257,8 +241,8 @@ aside {
 
 /* footer */
 footer {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: center;
   color: #bbbbbb;
   font-size: 14px;
@@ -308,7 +292,7 @@ footer {
   font-weight: 400;
   letter-spacing: 0px;
   font-size: 20px;
-  color: #404040;
+  color: var(--background-color);
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -333,7 +317,7 @@ footer {
 
 #list-page .title {
   display: inline-block;
-  color: #404040;
+  color: var(--background-color);
   font-size: 20px;
   font-weight: 400;
   margin: 0;
@@ -341,7 +325,7 @@ footer {
 }
 
 #list-page .title a {
-  color: #404040;
+  color: var(--background-color);
   display: block;
 }
 
@@ -473,7 +457,7 @@ footer {
   display: inline;
 }
 #archive .group .value .title a {
-  color:#404040;
+  color:var(--background-color);
 }
 #archive .group .value .title a:hover {
   color: #0366d6;
@@ -518,7 +502,7 @@ footer {
   background: #f2f2f2;
   padding: 4px 7px;
   color: #757575;
-  color: #404040;
+  color: var(--background-color);
   font-size: 14px;
   margin-right: 3px;
 }
@@ -545,7 +529,7 @@ footer {
 
 #page-404 .title {
   display: inline-block;
-  color: #404040;
+  color: var(--background-color);
   font-size: 15px;
   font-weight: 400;
   margin: 0;
@@ -571,4 +555,31 @@ footer {
   position: relative;
   top: 1px;
   color: #bbb;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    padding: 0 10%;
+  }
+  aside {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    padding: 0 15%;
+  }
+  aside {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  body {
+    padding: 0 25%;
+  }
+  aside {
+    display: block;
+  }
 }
