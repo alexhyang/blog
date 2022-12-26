@@ -179,7 +179,9 @@ pre code {
 
 
 /* navigation */
-
+nav {
+  margin-left: auto;
+}
 nav>ul {
   display: flex;
   padding: 0;
