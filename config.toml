@@ -40,12 +40,17 @@ hasCJKLanguage = true
 
 # Site parameters
 # Sidebar menus
-[Menus]
-  main = [
-    {Name = "Home", URL = "/", Weight = -1},
-    {Name = "Archives", URL = "/posts/"},
-    {Name = "Tags", URL = "/tags/"},
-  ]
+[[menus]]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    Weight = -1
+[[menu.main]]
+    name = "Archives"
+    url = "/posts/"
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
 
 [params]
    # Site Author
