@@ -1,6 +1,7 @@
 +++
 title = "A Life Tracker"
 date = 2022-11-24T01:27:10-08:00
+lastmod = 2022-12-24T01:27:10-08:00
 draft = false
 author = "Alex"
 tags = ['life']
