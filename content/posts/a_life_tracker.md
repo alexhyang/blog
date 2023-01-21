@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2022-12-24T01:27:10-08:00
+lastmod = 2023-01-21T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -16,25 +16,23 @@ Contents:
 * [Articles](#articles)
 
 ## Books
-Readings
-
 | Start Date | Finish Date | Title                                                       |
 |------------|-------------|-------------------------------------------------------------|
 | 2022-12-10 |             | [1]                                                         |
 | 2022-12-10 |             | [2]                                                         |
-| 2022-12-14 |             | [2001太空漫游](https://book.douban.com/subject/30471298/)   |
 |            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/) |
 |            |             | [基地前奏](https://book.douban.com/subject/26389893/)       |
 |            |             | [索拉里斯星](https://book.douban.com/subject/35049755/)     |
 
-| Start Date | Finish Date | Title                                                   | Rating ★☆ |
-|------------|-------------|---------------------------------------------------------|-----------|
-| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/) | ★★★★★     |
-| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)   | ★★★★★     |
+| Start Date | Finish Date | Title                                                     | Rating ★☆ |
+|------------|-------------|-----------------------------------------------------------|-----------|
+| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/)   | ★★★★★     |
+| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)     | ★★★★★     |
+| 2022-12-14 | 2023-01-21  | [2001太空漫游](https://book.douban.com/subject/30471298/) | ★★★★★     |
 
 Refs ([MLA9](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html))
 1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
-2.  Myers, David G,. and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
+2.  Myers, David G., and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
 
 ## Blogs/Columns
 | Title                                                      | Author         | Tags                        |
