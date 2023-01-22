@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-01-21T01:27:10-08:00
+lastmod = 2023-01-23T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -11,7 +11,7 @@ Life repeats itself over and over, but taking control of one's own life is never
 
 Contents:
 * [Books](#books)
-* [Blogs/Columns](#blogs/columns)
+* [Blogs and Columns](#blogs-and-columns)
 * [YouTube channels](#youtube-channels)
 * [Articles](#articles)
 
@@ -20,9 +20,11 @@ Contents:
 |------------|-------------|-------------------------------------------------------------|
 | 2022-12-10 |             | [1]                                                         |
 | 2022-12-10 |             | [2]                                                         |
+| 2023-01-22 |             | [索拉里斯星](https://book.douban.com/subject/35049755/)     |
+|            |             | [与父亲的奥德赛](https://book.douban.com/subject/35778225/) |
 |            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/) |
 |            |             | [基地前奏](https://book.douban.com/subject/26389893/)       |
-|            |             | [索拉里斯星](https://book.douban.com/subject/35049755/)     |
+|            |             | [安德的游戏](https://book.douban.com/subject/26389893/)     |
 
 | Start Date | Finish Date | Title                                                     | Rating ★☆ |
 |------------|-------------|-----------------------------------------------------------|-----------|
@@ -34,7 +36,7 @@ Refs ([MLA9](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_form
 1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
 2.  Myers, David G., and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
 
-## Blogs/Columns
+## Blogs and Columns
 | Title                                                      | Author         | Tags                        |
 |------------------------------------------------------------|----------------|-----------------------------|
 | [Catch Me in the Wild](https://nananadanada.substack.com/) | Nana           | writing                     |
