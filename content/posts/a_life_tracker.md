@@ -16,28 +16,35 @@ Contents:
 * [Articles](#articles)
 
 ## Books
-| Start Date | Finish Date | Title                                                       |
-|------------|-------------|-------------------------------------------------------------|
-| 2022-12-10 |             | [1]                                                         |
-| 2022-12-10 |             | [2]                                                         |
-|            |             | [与父亲的奥德赛](https://book.douban.com/subject/35778225/) |
-|            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/) |
-|            |             | [基地前奏](https://book.douban.com/subject/26389893/)       |
-|            |             | [安德的游戏](https://book.douban.com/subject/26389893/)     |
-|            |             | [弗兰肯斯坦](https://book.douban.com/subject/35178089/)     |
-|            |             | [从地球到月球](https://book.douban.com/subject/3198682/)    |
-|            |             | [时间机器](https://book.douban.com/subject/34994960/)       |
-|            |             | [美丽新世界](https://book.douban.com/subject/27002046/)     |
+| Start Date | Finish Date | Title                                                       | Rating ★☆ |
+|------------|-------------|-------------------------------------------------------------|-----------|
+| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/)     | ★★★★★     |
+| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)       | ★★★★★     |
+| 2022-12-14 | 2023-01-21  | [2001太空漫游](https://book.douban.com/subject/30471298/)   | ★★★★★     |
+| 2023-01-22 | 2023-01-24  | [索拉里斯星](https://book.douban.com/subject/35049755/)     |           |
+| 2023-01-24 |             | [与父亲的奥德赛](https://book.douban.com/subject/35778225/) |           |
+| 2023-01-24 |             | [弗兰肯斯坦](https://book.douban.com/subject/35178089/)     |           |
+|            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/) |           |
+|            |             | [基地前奏](https://book.douban.com/subject/26389893/)       |           |
+|            |             | [安德的游戏](https://book.douban.com/subject/26389893/)     |           |
+|            |             | [从地球到月球](https://book.douban.com/subject/3198682/)    |           |
+|            |             | [时间机器](https://book.douban.com/subject/34994960/)       |           |
+|            |             | [美丽新世界](https://book.douban.com/subject/27002046/)     |           |
 
 
-| Start Date | Finish Date | Title                                                     | Rating ★☆ |
-|------------|-------------|-----------------------------------------------------------|-----------|
-| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/)   | ★★★★★     |
-| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)     | ★★★★★     |
-| 2022-12-14 | 2023-01-21  | [2001太空漫游](https://book.douban.com/subject/30471298/) | ★★★★★     |
-| 2023-01-22 | 2023-01-24  | [索拉里斯星](https://book.douban.com/subject/35049755/)   |           |
+| Start Date | Finish Date | Title                                               | Rating ★☆ |
+|------------|-------------|-----------------------------------------------------|-----------|
+| 2022-12-10 |             | [1]                                                 |           |
+| 2022-12-10 |             | [2]                                                 |           |
+|            |             | [![Solaris][101]][102]                              |           |
+|            |             | [![The Hitchhiker's Guide to the Galaxy][103]][104] |           |
 
-Refs ([MLA9](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html))
+[101]: https://www.syndetics.com/index.aspx?isbn=9780571311576&issn=/LC.JPG&client=burnabypl&type=xw12
+[102]: https://burnaby.bibliocommons.com/v2/record/S2C1648123
+[103]: https://www.syndetics.com/index.aspx?isbn=9780330508537&issn=/LC.JPG&client=burnabypl&type=xw12 
+[104]: https://burnaby.bibliocommons.com/v2/record/S2C1082537
+
+[Refs](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html)
 1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
 2.  Myers, David G., and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
 
