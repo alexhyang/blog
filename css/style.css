@@ -1,3 +1,11 @@
+/*
+ * || General styles
+ * || Typography
+ * || Header and Main Navigation
+ * || Blog Post
+ *
+ */
+
 /* || General styles */
 :root {
   --link-color: #5badf0;
@@ -9,6 +17,7 @@
   --post-text-color: #666;
   --background-color: #404040;
 }
+
 body {
   line-height: 1;
   font: normal 16px/1.5em 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -25,7 +34,7 @@ a {
 a:hover {
   color: var(--link-hover-color);
 }
-/* ... */
+
 
 /* || Typography */
 h1,
@@ -33,17 +42,23 @@ h2,
 h3 {
   font-weight: 400;
 }
+h2 {
+  margin-top: 2.5em;
+}
 h1:hover a,
 h2:hover a,
 h3:hover a,
 h4:hover a { 
   visibility: visible;
 }
+
 p {
   margin-block-start: 1.5em;
+  /* 
   margin-block-end: 1.5em;
+  */
 }
-/* ... */
+
 
 /* || Header and Main Navigation */
 nav.navigation {
@@ -87,7 +102,7 @@ nav.navigation a:hover {
     border-radius: 3px;
   }
 }
-/* ... */
+
 
 /* || Blog Post */
 article.post {
@@ -125,7 +140,7 @@ nav#TableOfContents>ul {
   display: flex;
   flex-direction: column;
 }
-/* ... */
+
 
 /* markdown content styles */
 blockquote {
@@ -147,7 +162,7 @@ hr {
 
 table {
   width: 100%;
-  margin: 40px 0;
+  margin: 1.25em 0;
   border-collapse: collapse;
   line-height: 1.5em;
   white-space: nowrap;
@@ -171,6 +186,11 @@ table td, td {
   padding: 10px 15px;
   border-width: 1px 0 0 0;
 }
+
+table td img {
+  max-width: 200px;
+}
+
 thead th, th {
   text-align: left;
   padding: 10px 15px;
