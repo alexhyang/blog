@@ -16,29 +16,29 @@ Contents:
 * [Articles](#articles)
 
 ## Books
-| Start Date | Finish Date | Title                                                       | Rating ★☆ |
-|------------|-------------|-------------------------------------------------------------|-----------|
-| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/)     | ★★★★★     |
-| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)       | ★★★★★     |
-| 2022-12-14 | 2023-01-21  | [2001太空漫游](https://book.douban.com/subject/30471298/)   | ★★★★★     |
-| 2023-01-22 | 2023-01-24  | [索拉里斯星](https://book.douban.com/subject/35049755/)     |           |
-| 2023-01-24 |             | [与父亲的奥德赛](https://book.douban.com/subject/35778225/) |           |
-| 2023-01-24 |             | [弗兰肯斯坦](https://book.douban.com/subject/35178089/)     |           |
-|            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/) |           |
-|            |             | [基地前奏](https://book.douban.com/subject/26389893/)       |           |
-|            |             | [安德的游戏](https://book.douban.com/subject/26389893/)     |           |
-|            |             | [从地球到月球](https://book.douban.com/subject/3198682/)    |           |
-|            |             | [时间机器](https://book.douban.com/subject/34994960/)       |           |
-|            |             | [美丽新世界](https://book.douban.com/subject/27002046/)     |           |
+| Start Date | Finish Date | Title                                                          | Rating ★☆ |
+|------------|-------------|----------------------------------------------------------------|-----------|
+| 2022-11-23 | 2022-12-2   | [极简音乐史](https://book.douban.com/subject/27085977/)        | ★★★★★     |
+| 2022-12-3  | 2022-12-10  | [第二基地](https://book.douban.com/subject/26389894/)          | ★★★★★     |
+| 2022-12-14 | 2023-01-21  | [2001太空漫游](https://book.douban.com/subject/30471298/)      | ★★★★★     |
+| 2023-01-22 | 2023-01-24  | [索拉里斯星](https://book.douban.com/subject/35049755/)        |           |
+| 2023-01-24 |             | [与父亲的奥德赛](https://book.douban.com/subject/35778225/)    |           |
+| 2023-01-24 |             | [弗兰肯斯坦](https://book.douban.com/subject/35178089/)        |           |
+|            |             | [余下的只有噪音](https://book.douban.com/subject/34978358/)    |           |
+|            |             | [基地前奏](https://book.douban.com/subject/26389893/)          |           |
+|            |             | [安德的游戏](https://book.douban.com/subject/26389893/)        |           |
+|            |             | [从地球到月球](https://book.douban.com/subject/3198682/)       |           |
+|            |             | [时间机器](https://book.douban.com/subject/34994960/)          |           |
+|            |             | [美丽新世界](https://book.douban.com/subject/27002046/)        |           |
+| 2022-12-10 |             | [![Mathematical Thought from Ancient to Modern Times][97]][98] |           |
+| 2022-12-10 |             | [![Social Psychology][99]][100] |           |
+|            |             | [![Solaris][101]][102]                                         |           |
+|            |             | [![The Hitchhiker's Guide to the Galaxy][103]][104]            |           |
 
-
-| Start Date | Finish Date | Title                                               | Rating ★☆ |
-|------------|-------------|-----------------------------------------------------|-----------|
-| 2022-12-10 |             | [1]                                                 |           |
-| 2022-12-10 |             | [2]                                                 |           |
-|            |             | [![Solaris][101]][102]                              |           |
-|            |             | [![The Hitchhiker's Guide to the Galaxy][103]][104] |           |
-
+[97]: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg 
+[98]: https://www.goodreads.com/en/book/show/3240085 
+[99]: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536382756i/41737051.jpg
+[100]: https://www.goodreads.com/book/show/41737051-social-psychology
 [101]: https://www.syndetics.com/index.aspx?isbn=9780571311576&issn=/LC.JPG&client=burnabypl&type=xw12
 [102]: https://burnaby.bibliocommons.com/v2/record/S2C1648123
 [103]: https://www.syndetics.com/index.aspx?isbn=9780330508537&issn=/LC.JPG&client=burnabypl&type=xw12 
