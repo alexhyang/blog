@@ -11,18 +11,22 @@ summary = "A collection of book covers."
 {{< figure 
   src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459204943i/18747125.jpg" 
   link="https://www.goodreads.com/book/show/18747125-solaris"
+  class="book-covers"
 >}}
 
 {{< figure 
   src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332513745i/13557684.jpg" 
+  class="book-covers"
 >}}
 
 {{< figure 
   src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412015589i/17336734.jpg" 
+  class="book-covers"
 >}}
 
 {{< figure 
   src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610731201i/52194751.jpg" 
+  class="book-covers"
   link="https://www.goodreads.com/book/show/52194751-the-hitchhiker-s-guide-to-the-galaxy"
 >}}
 

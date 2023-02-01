@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-01-25T01:27:10-08:00
+lastmod = 2023-01-31T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -39,49 +39,65 @@ Contents:
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/27085977/"
-    title="极简音乐史 (2022/11/23 ~ 12/2) ★★★★★"
+    title="极简音乐史 ★★★★★"
+    class="book-covers"
+    attr="(2022/11/23 ~ 12/2)"
 >}}
 
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/26389894"
-    title="第二基地 (2022/12/3 ~ 2022/12/10) ★★★★★"
+    title="第二基地 ★★★★★"
+    class="book-covers"
+    attr="(2022/12/3 ~ 12/12)"
 >}}
 
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/30471298/"
-    title="2001太空漫游 (2022/12/14 ~ 2023/01/21)"
+    title="2001太空漫游"
+    class="book-covers"
+    attr="(2022/12/14 ~ 2023/01/21)"
 >}}
 
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/35049755/"
-    title="索拉里斯星 (2023/01/22 ~ 2023/01/24)"
+    title="索拉里斯星"
+    class="book-covers"
+    attr="(2023/01/22 ~ 2023/01/24)"
 >}}
 
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/35778225/"
-    title="与父亲的奥德赛 (2023/01/24 ~ )"
+    title="与父亲的奥德赛"
+    class="book-covers"
+    attr="(2023/01/24 ~ )"
 >}}
 
 {{< figure
     src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
     link="https://book.douban.com/subject/35178089/"
-    title="弗兰肯斯坦 (2023/01/24 ~ )"
+    title="弗兰肯斯坦"
+    class="book-covers"
+    attr="(2023/01/24 ~ )"
 >}}
 
 {{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg"
     link="https://www.goodreads.com/en/book/show/3240085"
-    title="Mathematical Thought from Ancient to Modern Times (2022/12/10 ~ )"
+    title="Mathematical Thought from Ancient to Modern Times"
+    class="book-covers"
+    attr="(2022/12/10 ~ )"
 >}}
 
 {{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536382756i/41737051.jpg"
     link="https://www.goodreads.com/book/show/41737051-social-psychology"
-    title="Social Psychology (2022/12/10 ~ )"
+    title="Social Psychology"
+    class="book-covers"
+    attr="(2022/12/10 ~ )"
 >}}
 
 
