@@ -187,10 +187,6 @@ table td, td {
   border-width: 1px 0 0 0;
 }
 
-table td img {
-  max-width: 200px;
-}
-
 thead th, th {
   text-align: left;
   padding: 10px 15px;
@@ -209,6 +205,20 @@ tr>td {
 
 tr:nth-child(odd)>td {
   background: #fcfcfc;
+}
+
+figure.book-covers {
+  text-align: center;
+}
+figure.book-covers img {
+  width: 100%;
+  max-width: 250px;
+}
+figure.book-covers figcaption {
+  padding-bottom: 1em;
+}
+figure.book-covers figcaption>h4, figcaption>p {
+  margin: 0;
 }
 
 pre {
