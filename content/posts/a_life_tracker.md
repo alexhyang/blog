@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-01-31T01:27:10-08:00
+lastmod = 2023-02-18T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -81,7 +81,15 @@ Contents:
     link="https://book.douban.com/subject/35178089/"
     title="弗兰肯斯坦"
     class="book-covers"
-    attr="(2023/01/24 ~ )"
+    attr="(2023/01/24 ~ 2023/02/17)"
+>}}
+
+{{< figure
+    src="https://img1.doubanio.com/view/subject/s/public/s28733028.jpg"
+    link="https://book.douban.com/subject/26767247/"
+    title="安德的游戏"
+    class="book-covers"
+    attr="(2023/02/18 ~ )"
 >}}
 
 {{< figure
@@ -105,13 +113,11 @@ Contents:
 -----------------------------------------------------------------|-----------|
  [余下的只有噪音](https://book.douban.com/subject/34978358/)     |           |
  [基地前奏](https://book.douban.com/subject/26389893/)           |           |
- [安德的游戏](https://book.douban.com/subject/26389893/)         |           |
  [从地球到月球](https://book.douban.com/subject/3198682/)        |           |
  [时间机器](https://book.douban.com/subject/34994960/)           |           |
  [美丽新世界](https://book.douban.com/subject/27002046/)         |           |
 
-
-[some of my favorite book cover designs](/posts/book-covers)
+[some book covers I like](/posts/book-covers)
 
 [Refs](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html)
 1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
