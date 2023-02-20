@@ -89,7 +89,15 @@ Contents:
     link="https://book.douban.com/subject/26767247/"
     title="安德的游戏"
     class="book-covers"
-    attr="(2023/02/18 ~ )"
+    attr="(2023/02/18 ~ 2023/02/18)"
+>}}
+
+{{< figure
+    src="https://img1.doubanio.com/view/subject/s/public/s33594937.jpg"
+    link="https://book.douban.com/subject/34994960/"
+    title="时间机器"
+    class="book-covers"
+    attr="(2023/02/20 ~ )"
 >}}
 
 {{< figure
@@ -114,7 +122,7 @@ Contents:
  [余下的只有噪音](https://book.douban.com/subject/34978358/)     |           |
  [基地前奏](https://book.douban.com/subject/26389893/)           |           |
  [从地球到月球](https://book.douban.com/subject/3198682/)        |           |
- [时间机器](https://book.douban.com/subject/34994960/)           |           |
+ []()           |           |
  [美丽新世界](https://book.douban.com/subject/27002046/)         |           |
 
 [some book covers I like](/posts/book-covers)
