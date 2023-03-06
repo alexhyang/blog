@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-02-18T01:27:10-08:00
+lastmod = 2023-03-05T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -65,7 +65,7 @@ Contents:
     link="https://book.douban.com/subject/35049755/"
     title="索拉里斯星"
     class="book-covers"
-    attr="(2023/01/22 ~ 2023/01/24)"
+    attr="(2023/01/22 ~ 01/24)"
 >}}
 
 {{< figure
@@ -81,7 +81,7 @@ Contents:
     link="https://book.douban.com/subject/35178089/"
     title="弗兰肯斯坦"
     class="book-covers"
-    attr="(2023/01/24 ~ 2023/02/17)"
+    attr="(2023/01/24 ~ 02/17)"
 >}}
 
 {{< figure
@@ -89,7 +89,7 @@ Contents:
     link="https://book.douban.com/subject/26767247/"
     title="安德的游戏"
     class="book-covers"
-    attr="(2023/02/18 ~ 2023/02/18)"
+    attr="(2023/02/18 ~ 02/18)"
 >}}
 
 {{< figure
@@ -97,7 +97,15 @@ Contents:
     link="https://book.douban.com/subject/34994960/"
     title="时间机器"
     class="book-covers"
-    attr="(2023/02/20 ~ )"
+    attr="(2023/02/20 ~ 03/05)"
+>}}
+
+{{< figure
+    src="https://img2.doubanio.com/view/subject/l/public/s4599352.jpg"
+    link="https://book.douban.com/subject/3198682/"
+    title="从地球到月球"
+    class="book-covers"
+    attr="(2023/03/05 ~ )"
 >}}
 
 {{< figure
@@ -121,8 +129,6 @@ Contents:
 -----------------------------------------------------------------|-----------|
  [余下的只有噪音](https://book.douban.com/subject/34978358/)     |           |
  [基地前奏](https://book.douban.com/subject/26389893/)           |           |
- [从地球到月球](https://book.douban.com/subject/3198682/)        |           |
- []()           |           |
  [美丽新世界](https://book.douban.com/subject/27002046/)         |           |
 
 [some book covers I like](/posts/book-covers)
