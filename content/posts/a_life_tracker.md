@@ -37,7 +37,7 @@ Contents:
 ## Books
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://m.media-amazon.com/images/I/91iyMUH1FiL._AC_UF1000,1000_QL80_.jpg"
     link="https://book.douban.com/subject/27085977/"
     title="极简音乐史 ★★★★★"
     class="book-covers"
@@ -45,7 +45,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/51I47YAw4qL.jpg"
     link="https://book.douban.com/subject/26389894"
     title="第二基地 ★★★★★"
     class="book-covers"
@@ -53,7 +53,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://img.211cn.ca/books/2471.jpg"
     link="https://book.douban.com/subject/30471298/"
     title="2001太空漫游"
     class="book-covers"
@@ -61,7 +61,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://kbimages1-a.akamaihd.net/1ae05f71-3321-48e3-9464-230f1220b210/1200/1200/False/apMnxPB2dzSEsRA11qry4w.jpg"
     link="https://book.douban.com/subject/35049755/"
     title="索拉里斯星"
     class="book-covers"
@@ -69,7 +69,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
     link="https://book.douban.com/subject/35778225/"
     title="与父亲的奥德赛"
     class="book-covers"
@@ -77,7 +77,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img9.doubanio.com/view/subject/l/public/s29491985.jpg"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41ICpvH6hCL.jpg"
     link="https://book.douban.com/subject/35178089/"
     title="弗兰肯斯坦"
     class="book-covers"
@@ -85,7 +85,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img1.doubanio.com/view/subject/s/public/s28733028.jpg"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41BJvqm3dyL.jpg"
     link="https://book.douban.com/subject/26767247/"
     title="安德的游戏"
     class="book-covers"
@@ -93,7 +93,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img1.doubanio.com/view/subject/s/public/s33594937.jpg"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/51rEgHvwrVL.jpg"
     link="https://book.douban.com/subject/34994960/"
     title="时间机器"
     class="book-covers"
@@ -101,7 +101,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img2.doubanio.com/view/subject/l/public/s4599352.jpg"
+    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
     link="https://book.douban.com/subject/3198682/"
     title="从地球到月球"
     class="book-covers"
