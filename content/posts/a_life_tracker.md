@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-03-05T01:27:10-08:00
+lastmod = 2023-03-17T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -101,6 +101,14 @@ Contents:
 >}}
 
 {{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41nf7PByt0L.jpg"
+    link="https://book.douban.com/subject/5414391/"
+    title="寻路中国"
+    class="book-covers"
+    attr="(2023/03/06 ~ )"
+>}}
+
+{{< figure
     src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
     link="https://book.douban.com/subject/3198682/"
     title="从地球到月球"
@@ -130,6 +138,22 @@ Contents:
  [余下的只有噪音](https://book.douban.com/subject/34978358/)     |           |
  [基地前奏](https://book.douban.com/subject/26389893/)           |           |
  [美丽新世界](https://book.douban.com/subject/27002046/)         |           |
+ [夜航西飞](https://book.douban.com/subject/30187222/)         |           |
+ [旅行的艺术](https://book.douban.com/subject/11505636/)         |           |
+ [威尼斯日记](https://book.douban.com/subject/30309619/)         |           |
+ [西班牙旅行笔记](https://book.douban.com/subject/26683416/)         |           |
+ [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)         |           |
+ [巴西：未来之国](https://book.douban.com/subject/21714777/)         |           |
+ [土星之环](https://book.douban.com/subject/35089547/)         |           |
+ [当我在一个仲夏夜出走](https://book.douban.com/subject/30358504/)         |           |
+ [带一本书去巴黎](https://book.douban.com/subject/25748016/)         |           |
+ [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)         |           |
+ [本雅明转](https://book.douban.com/subject/35812425/)         |           |
+ [天真的人类学家](https://book.douban.com/subject/6712255/)         |           |
+ [忧郁的热带](https://book.douban.com/subject/4131380/)         |           |
+ [把自己作为方法](https://book.douban.com/subject/35092383/)         |           |
+ [单行道](https://book.douban.com/subject/34868494/)         |           |
+
 
 [some book covers I like](/posts/book-covers)
 
