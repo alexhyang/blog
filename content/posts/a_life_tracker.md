@@ -105,7 +105,7 @@ Contents:
     link="https://book.douban.com/subject/5414391/"
     title="寻路中国"
     class="book-covers"
-    attr="(2023/03/06 ~ )"
+    attr="(2023/03/06 ~ 03/20)"
 >}}
 
 {{< figure
@@ -113,7 +113,7 @@ Contents:
     link="https://book.douban.com/subject/3198682/"
     title="从地球到月球"
     class="book-covers"
-    attr="(2023/03/05 ~ )"
+    attr="(2023/03/20 ~ )"
 >}}
 
 {{< figure
