@@ -1,7 +1,7 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-03-17T01:27:10-08:00
+lastmod = 2023-03-27T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -69,14 +69,6 @@ Contents:
 >}}
 
 {{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
-    link="https://book.douban.com/subject/35778225/"
-    title="与父亲的奥德赛"
-    class="book-covers"
-    attr="(2023/01/24 ~ )"
->}}
-
-{{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41ICpvH6hCL.jpg"
     link="https://book.douban.com/subject/35178089/"
     title="弗兰肯斯坦"
@@ -109,11 +101,35 @@ Contents:
 >}}
 
 {{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/91ByxjPLokL.jpg"
+    link="https://book.douban.com/subject/6558709/"
+    title="万水千山走遍"
+    class="book-covers"
+    attr="(2023/03/20 ~ 03/26)"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/819Vnbv5PiL.jpg"
+    link="https://book.douban.com/subject/11505636/"
+    title="旅行的艺术"
+    class="book-covers"
+    attr="(2023/03/27 ~ )"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
+    link="https://book.douban.com/subject/35778225/"
+    title="与父亲的奥德赛"
+    class="book-covers"
+    attr="(2023/01/24 ~ )"
+>}}
+
+{{< figure
     src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
     link="https://book.douban.com/subject/3198682/"
     title="从地球到月球"
     class="book-covers"
-    attr="(2023/03/20 ~ )"
+    attr="(2023/03/27 ~ )"
 >}}
 
 {{< figure
@@ -139,7 +155,6 @@ Contents:
  [基地前奏](https://book.douban.com/subject/26389893/)           |           |
  [美丽新世界](https://book.douban.com/subject/27002046/)         |           |
  [夜航西飞](https://book.douban.com/subject/30187222/)         |           |
- [旅行的艺术](https://book.douban.com/subject/11505636/)         |           |
  [威尼斯日记](https://book.douban.com/subject/30309619/)         |           |
  [西班牙旅行笔记](https://book.douban.com/subject/26683416/)         |           |
  [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)         |           |
