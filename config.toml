@@ -1,6 +1,7 @@
 baseURL = "https://sleepyalex.ca"
 languageCode = "en-us"
 title = "Alex's Notebook"
+enableGitInfo = true
 
 [taxonomies]
    tag = "tags"
@@ -59,12 +60,9 @@ hasCJKLanguage = true
    bio = ""
    # Site Description, used in HTML meat
    description = "Personal Research Notebook"
-
    enableRSS = true
-   enableGitInfo = true
    # To enable comments, you may need to set `disqusShortname`
    enableComments = false
    # To enable comments, you may need to set `googleAnalytics`
    enableGoogleAnalytics = true
-  
    themeColor = "theme-base-0d"
