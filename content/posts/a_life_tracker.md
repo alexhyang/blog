@@ -81,7 +81,7 @@ Contents:
     link="https://book.douban.com/subject/26767247/"
     title="安德的游戏"
     class="book-covers"
-    attr="(2023/02/18 ~ 02/18)"
+    attr="(2023/02/18)"
 >}}
 
 {{< figure
@@ -109,12 +109,29 @@ Contents:
 >}}
 
 {{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/51Ibe7UM7jL.jpg"
+    link="https://book.douban.com/subject/26877752/"
+    title="恶意"
+    class="book-covers"
+    attr="(2023/03/31)"
+>}}
+
+{{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/819Vnbv5PiL.jpg"
     link="https://book.douban.com/subject/11505636/"
     title="旅行的艺术"
     class="book-covers"
     attr="(2023/03/27 ~ )"
 >}}
+
+{{< figure
+    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Q4uUdbqNL.jpg"
+    link="https://www.goodreads.com/book/show/23630654-the-art-of-travel"
+    title="The Art of Travel"
+    class="book-covers"
+    attr="(2023/03/27 ~ )"
+>}}
+
 
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
