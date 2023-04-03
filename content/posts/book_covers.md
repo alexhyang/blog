@@ -8,25 +8,49 @@ summary = "A collection of book covers."
 
 [my bookshelf](/posts/a-life-tracker/#books)
 
-{{< figure 
-  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459204943i/18747125.jpg" 
+{{< figure
+  src="/book-covers/Adams_Douglas-H2G2_Complete_Collection-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="/book-covers/Adams_Douglas-The_Hitchhikers_Guide_to_The_Galaxy-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="/book-covers/Adams_Douglas-The_Restaurant_at_The_End_of_The_Universe-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="/book-covers/Adams_Douglas-Life_The_Universe_and_Everything-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="/book-covers/Adams_Douglas-So_Long_and_Thanks_for_All_The_Fish-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="/book-covers/Adams_Douglas-Mostly_Harmless-42_anni_ed-en.jpg"
+  class="book-covers"
+>}}
+
+{{< figure
+  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459204943i/18747125.jpg"
   link="https://www.goodreads.com/book/show/18747125-solaris"
   class="book-covers"
 >}}
 
-{{< figure 
-  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332513745i/13557684.jpg" 
+{{< figure
+  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332513745i/13557684.jpg"
   class="book-covers"
 >}}
 
-{{< figure 
-  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412015589i/17336734.jpg" 
+{{< figure
+  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412015589i/17336734.jpg"
   class="book-covers"
->}}
-
-{{< figure 
-  src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610731201i/52194751.jpg" 
-  class="book-covers"
-  link="https://www.goodreads.com/book/show/52194751-the-hitchhiker-s-guide-to-the-galaxy"
 >}}
 

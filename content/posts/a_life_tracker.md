@@ -35,6 +35,13 @@ Contents:
 | [Computerphile](https://www.youtube.com/@Computerphile)                 | Sean Riley           | computer science |
 
 ## Books
+{{< figure
+    src="https://m.media-amazon.com/images/I/61VNmy7p3eL.jpg"
+    link="https://www.goodreads.com/book/show/25261602?from_search=true&from_srp=true&qid=jdaOItEFgO&rank=1"
+    class="book-covers"
+    attr="岡田 暁生"
+    attrlink="https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E6%9A%81%E7%94%9F"
+>}}
 
 {{< figure
     src="https://m.media-amazon.com/images/I/91iyMUH1FiL._AC_UF1000,1000_QL80_.jpg"
@@ -132,6 +139,13 @@ Contents:
     attr="(2023/03/27 ~ )"
 >}}
 
+{{< figure
+    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91FRchndfbL.jpg"
+    link="https://www.goodreads.com/en/book/show/54390345"
+    title="A Most Remarkable Creature"
+    class="book-covers"
+    attr="(2023/03/27 ~ )"
+>}}
 
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
