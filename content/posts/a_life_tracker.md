@@ -1,7 +1,6 @@
 +++
 title   = "A Life Tracker"
 date    = 2022-11-24T01:27:10-08:00
-lastmod = 2023-03-27T01:27:10-08:00
 draft   = false
 author  = "Alex"
 tags    = ['life']
@@ -70,7 +69,7 @@ Contents:
 {{< figure
     src="https://kbimages1-a.akamaihd.net/1ae05f71-3321-48e3-9464-230f1220b210/1200/1200/False/apMnxPB2dzSEsRA11qry4w.jpg"
     link="https://book.douban.com/subject/35049755/"
-    title="索拉里斯星"
+    title="索拉里斯星 ★★★★★"
     class="book-covers"
     attr="(2023/01/22 ~ 01/24)"
 >}}
@@ -102,7 +101,7 @@ Contents:
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41nf7PByt0L.jpg"
     link="https://book.douban.com/subject/5414391/"
-    title="寻路中国"
+    title="寻路中国 ★★★★★"
     class="book-covers"
     attr="(2023/03/06 ~ 03/20)"
 >}}
@@ -118,49 +117,9 @@ Contents:
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/51Ibe7UM7jL.jpg"
     link="https://book.douban.com/subject/26877752/"
-    title="恶意"
+    title="恶意 ★★★★★"
     class="book-covers"
     attr="(2023/03/31)"
->}}
-
-{{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/819Vnbv5PiL.jpg"
-    link="https://book.douban.com/subject/11505636/"
-    title="旅行的艺术"
-    class="book-covers"
-    attr="(2023/03/27 ~ )"
->}}
-
-{{< figure
-    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Q4uUdbqNL.jpg"
-    link="https://www.goodreads.com/book/show/23630654-the-art-of-travel"
-    title="The Art of Travel"
-    class="book-covers"
-    attr="(2023/03/27 ~ )"
->}}
-
-{{< figure
-    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91FRchndfbL.jpg"
-    link="https://www.goodreads.com/en/book/show/54390345"
-    title="A Most Remarkable Creature"
-    class="book-covers"
-    attr="(2023/03/27 ~ )"
->}}
-
-{{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
-    link="https://book.douban.com/subject/35778225/"
-    title="与父亲的奥德赛"
-    class="book-covers"
-    attr="(2023/01/24 ~ )"
->}}
-
-{{< figure
-    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
-    link="https://book.douban.com/subject/3198682/"
-    title="从地球到月球"
-    class="book-covers"
-    attr="(2023/03/27 ~ )"
 >}}
 
 {{< figure
@@ -179,6 +138,52 @@ Contents:
     attr="(2022/12/10 ~ )"
 >}}
 
+{{< figure
+    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Q4uUdbqNL.jpg"
+    link="https://www.goodreads.com/book/show/23630654-the-art-of-travel"
+    class="book-covers"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/819Vnbv5PiL.jpg"
+    link="https://book.douban.com/subject/11505636/"
+    title="旅行的艺术"
+    class="book-covers"
+    attr="(2023/03/27 ~ )"
+>}}
+
+{{< figure
+    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91FRchndfbL.jpg"
+    link="https://www.goodreads.com/en/book/show/54390345"
+    title="A Most Remarkable Creature"
+    class="book-covers"
+    attr="(2023/04/04 ~ )"
+>}}
+
+{{< figure
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612636941i/38958779.jpg"
+    link="https://book.douban.com/subject/6712255/"
+    title="天真的人类学家"
+    class="book-covers"
+    attr="(2023/04/04 ~ )"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
+    link="https://book.douban.com/subject/35778225/"
+    title="与父亲的奥德赛"
+    class="book-covers"
+    attr="(2023/04/__ ~ )"
+>}}
+
+{{< figure
+    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
+    link="https://book.douban.com/subject/3198682/"
+    title="从地球到月球"
+    class="book-covers"
+    attr="(2023/04/__ ~ )"
+>}}
+
 
  Title                                                           | Rating ★☆ |
 -----------------------------------------------------------------|-----------|
@@ -195,7 +200,6 @@ Contents:
  [带一本书去巴黎](https://book.douban.com/subject/25748016/)         |           |
  [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)         |           |
  [本雅明转](https://book.douban.com/subject/35812425/)         |           |
- [天真的人类学家](https://book.douban.com/subject/6712255/)         |           |
  [忧郁的热带](https://book.douban.com/subject/4131380/)         |           |
  [把自己作为方法](https://book.douban.com/subject/35092383/)         |           |
  [单行道](https://book.douban.com/subject/34868494/)         |           |
