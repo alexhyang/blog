@@ -39,11 +39,11 @@ Contents:
 
 ## Books
 {{< figure
-    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612636941i/38958779.jpg"
-    link="https://book.douban.com/subject/6712255/"
-    title="天真的人类学家"
+    src="/book-covers/Strauss_Levi-Tristes_Tropiques.jpg"
+    link="https://book.douban.com/subject/4131380/"
+    title="忧郁的热带"
     class="book-covers"
-    attr="(2023/04/04 ~ )"
+    attr="(2023/04/08 ~ )"
 >}}
 
 {{< figure
@@ -103,6 +103,7 @@ Contents:
 ### Waitlist
 | Title                                                             | Rating ★☆ |
 |-------------------------------------------------------------------|-----------|
+| [把自己作为方法](https://book.douban.com/subject/35092383/)       |           |
 | [余下的只有噪音](https://book.douban.com/subject/34978358/)       |           |
 | [基地前奏](https://book.douban.com/subject/26389893/)             |           |
 | [美丽新世界](https://book.douban.com/subject/27002046/)           |           |
@@ -116,11 +117,17 @@ Contents:
 | [带一本书去巴黎](https://book.douban.com/subject/25748016/)       |           |
 | [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)       |           |
 | [本雅明转](https://book.douban.com/subject/35812425/)             |           |
-| [忧郁的热带](https://book.douban.com/subject/4131380/)            |           |
-| [把自己作为方法](https://book.douban.com/subject/35092383/)       |           |
 | [单行道](https://book.douban.com/subject/34868494/)               |           |
 
 ### Read
+{{< figure
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612636941i/38958779.jpg"
+    link="https://book.douban.com/subject/6712255/"
+    title="天真的人类学家"
+    class="book-covers"
+    attr="(2023/04/04 ~ 04/08)"
+>}}
+
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/51Ibe7UM7jL.jpg"
     link="https://book.douban.com/subject/26877752/"
