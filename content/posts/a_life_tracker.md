@@ -43,7 +43,7 @@ Contents:
     link="https://book.douban.com/subject/4131380/"
     title="忧郁的热带"
     class="book-covers"
-    attr="(2023/04/08 ~ )"
+    attr="(2023/04/18 ~ )"
 >}}
 
 {{< figure
@@ -59,7 +59,7 @@ Contents:
     link="https://www.goodreads.com/en/book/show/3240085"
     title="Mathematical Thought from Ancient to Modern Times Vol. 2"
     class="book-covers"
-    attr="(2022/12/10 ~ )"
+    attr="(2023/04/22 ~ )"
 >}}
 
 {{< figure
@@ -97,13 +97,12 @@ Contents:
     link="https://www.goodreads.com/book/show/41737051-social-psychology"
     title="Social Psychology"
     class="book-covers"
-    attr="(2022/12/10 ~ )"
+    attr="(2023/04/22 ~ )"
 >}}
 
 ### Waitlist
 | Title                                                             | Rating ★☆ |
 |-------------------------------------------------------------------|-----------|
-| [把自己作为方法](https://book.douban.com/subject/35092383/)       |           |
 | [余下的只有噪音](https://book.douban.com/subject/34978358/)       |           |
 | [基地前奏](https://book.douban.com/subject/26389893/)             |           |
 | [美丽新世界](https://book.douban.com/subject/27002046/)           |           |
@@ -120,6 +119,14 @@ Contents:
 | [单行道](https://book.douban.com/subject/34868494/)               |           |
 
 ### Read
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/414fxl8o13L.jpg"
+    link="https://book.douban.com/subject/35092383/"
+    title="把自己作为方法"
+    class="book-covers"
+    attr="(2023/04/08 ~ 04/17)"
+>}}
+
 {{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612636941i/38958779.jpg"
     link="https://book.douban.com/subject/6712255/"
