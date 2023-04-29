@@ -39,9 +39,9 @@ Contents:
 
 ## Books
 {{< figure
-    src="/book-covers/Strauss_Levi-Tristes_Tropiques.jpg"
-    link="https://book.douban.com/subject/4131380/"
-    title="忧郁的热带"
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"
+    link="https://www.goodreads.com/book/show/283901.Tristes_Tropiques"
+    title="Tristes Tropiques"
     class="book-covers"
     attr="(2023/04/18 ~ )"
 >}}
