@@ -39,6 +39,14 @@ Contents:
 
 ## Books
 {{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
+    link="https://book.douban.com/subject/26878124/"
+    title="我的天才女友"
+    class="book-covers"
+    attr="(2023/04/29 ~ )"
+>}}
+
+{{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"
     link="https://www.goodreads.com/book/show/283901.Tristes_Tropiques"
     title="Tristes Tropiques"
