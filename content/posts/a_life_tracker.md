@@ -38,12 +38,13 @@ Contents:
 | [Computerphile](https://www.youtube.com/@Computerphile)                 | Sean Riley           | computer science |
 
 ## Books
+
 {{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
-    link="https://book.douban.com/subject/26878124/"
-    title="我的天才女友"
+    src="https://images-cn.ssl-images-amazon.cn/images/I/51NgNtmw-0L.jpg"
+    link="https://book.douban.com/subject/27104959/"
+    title="离开的，留下的"
     class="book-covers"
-    attr="(2023/04/29 ~ )"
+    attr="(2023/05/__ ~ )"
 >}}
 
 {{< figure
@@ -108,25 +109,51 @@ Contents:
     attr="(2023/04/22 ~ )"
 >}}
 
+{{< figure
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410286994i/406148.jpg"
+    link="https://www.goodreads.com/book/show/406148.Gulag"
+    title="Gulag: A History"
+    class="book-covers"
+    attr="(2023/05/__ ~ )"
+>}}
+
 ### Waitlist
-| Title                                                             | Rating ★☆ |
-|-------------------------------------------------------------------|-----------|
-| [余下的只有噪音](https://book.douban.com/subject/34978358/)       |           |
-| [基地前奏](https://book.douban.com/subject/26389893/)             |           |
-| [美丽新世界](https://book.douban.com/subject/27002046/)           |           |
-| [夜航西飞](https://book.douban.com/subject/30187222/)             |           |
-| [威尼斯日记](https://book.douban.com/subject/30309619/)           |           |
-| [西班牙旅行笔记](https://book.douban.com/subject/26683416/)       |           |
-| [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)     |           |
-| [巴西：未来之国](https://book.douban.com/subject/21714777/)       |           |
-| [土星之环](https://book.douban.com/subject/35089547/)             |           |
-| [当我在一个仲夏夜出走](https://book.douban.com/subject/30358504/) |           |
-| [带一本书去巴黎](https://book.douban.com/subject/25748016/)       |           |
-| [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)       |           |
-| [本雅明转](https://book.douban.com/subject/35812425/)             |           |
-| [单行道](https://book.douban.com/subject/34868494/)               |           |
+| Title                                                                                                               | Rating ★☆ |
+|---------------------------------------------------------------------------------------------------------------------|-----------|
+| [余下的只有噪音](https://book.douban.com/subject/34978358/)                                                         |           |
+| [基地前奏](https://book.douban.com/subject/26389893/)                                                               |           |
+| [美丽新世界](https://book.douban.com/subject/27002046/)                                                             |           |
+| [夜航西飞](https://book.douban.com/subject/30187222/)                                                               |           |
+| [威尼斯日记](https://book.douban.com/subject/30309619/)                                                             |           |
+| [西班牙旅行笔记](https://book.douban.com/subject/26683416/)                                                         |           |
+| [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)                                                       |           |
+| [巴西：未来之国](https://book.douban.com/subject/21714777/)                                                         |           |
+| [土星之环](https://book.douban.com/subject/35089547/)                                                               |           |
+| [当我在一个仲夏夜出走](https://book.douban.com/subject/30358504/)                                                   |           |
+| [带一本书去巴黎](https://book.douban.com/subject/25748016/)                                                         |           |
+| [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)                                                         |           |
+| [本雅明传](https://book.douban.com/subject/35812425/)                                                               |           |
+| [单行道](https://book.douban.com/subject/34868494/)                                                                 |           |
+| [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001) |           |
 
 ### Read
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/519AULWMBbL.jpg"
+    link="https://book.douban.com/subject/26986954/"
+    title="新名字的故事"
+    class="book-covers"
+    attr="(2023/05/01 ~ 05/03)"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
+    link="https://book.douban.com/subject/26878124/"
+    title="我的天才女友"
+    class="book-covers"
+    attr="(2023/04/29 ~ 05/01)"
+>}}
+
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/414fxl8o13L.jpg"
     link="https://book.douban.com/subject/35092383/"
