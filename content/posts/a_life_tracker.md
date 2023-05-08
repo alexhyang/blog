@@ -40,14 +40,6 @@ Contents:
 ## Books
 
 {{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/51NgNtmw-0L.jpg"
-    link="https://book.douban.com/subject/27104959/"
-    title="离开的，留下的"
-    class="book-covers"
-    attr="(2023/05/__ ~ )"
->}}
-
-{{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"
     link="https://www.goodreads.com/book/show/283901.Tristes_Tropiques"
     title="Tristes Tropiques"
@@ -138,20 +130,34 @@ Contents:
 
 ### Read
 
-{{< figure
-    src="https://images-cn.ssl-images-amazon.cn/images/I/519AULWMBbL.jpg"
-    link="https://book.douban.com/subject/26986954/"
-    title="新名字的故事"
-    class="book-covers"
-    attr="(2023/05/01 ~ 05/03)"
->}}
 
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
     link="https://book.douban.com/subject/26878124/"
     title="我的天才女友"
     class="book-covers"
-    attr="(2023/04/29 ~ 05/01)"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/51NgNtmw-0L.jpg"
+    link="https://book.douban.com/subject/27104959/"
+    title="离开的，留下的"
+    class="book-covers"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/519AULWMBbL.jpg"
+    link="https://book.douban.com/subject/26986954/"
+    title="新名字的故事"
+    class="book-covers"
+>}}
+
+{{< figure
+    src="https://images-cn.ssl-images-amazon.cn/images/I/513WZ5kd08L.jpg"
+    link="https://book.douban.com/subject/30172069/"
+    title="失踪的孩子"
+    class="book-covers"
+    attr="(2023/04/29 ~ 05/08)"
 >}}
 
 {{< figure
