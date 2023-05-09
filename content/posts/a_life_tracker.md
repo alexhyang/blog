@@ -112,23 +112,21 @@ Contents:
 >}}
 
 ### Waitlist
-| Title                                                                                                               | Rating ★☆ |
-|---------------------------------------------------------------------------------------------------------------------|-----------|
-| [余下的只有噪音](https://book.douban.com/subject/34978358/)                                                         |           |
-| [基地前奏](https://book.douban.com/subject/26389893/)                                                               |           |
-| [美丽新世界](https://book.douban.com/subject/27002046/)                                                             |           |
-| [夜航西飞](https://book.douban.com/subject/30187222/)                                                               |           |
-| [威尼斯日记](https://book.douban.com/subject/30309619/)                                                             |           |
-| [西班牙旅行笔记](https://book.douban.com/subject/26683416/)                                                         |           |
-| [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)                                                       |           |
-| [巴西：未来之国](https://book.douban.com/subject/21714777/)                                                         |           |
-| [土星之环](https://book.douban.com/subject/35089547/)                                                               |           |
-| [当我在一个仲夏夜出走](https://book.douban.com/subject/30358504/)                                                   |           |
-| [带一本书去巴黎](https://book.douban.com/subject/25748016/)                                                         |           |
-| [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)                                                         |           |
-| [本雅明传](https://book.douban.com/subject/35812425/)                                                               |           |
-| [单行道](https://book.douban.com/subject/34868494/)                                                                 |           |
-| [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001) |           |
+*  [余下的只有噪音](https://book.douban.com/subject/34978358/)
+*  [基地前奏](https://book.douban.com/subject/26389893/)
+*  [美丽新世界](https://book.douban.com/subject/27002046/)
+*  [夜航西飞](https://book.douban.com/subject/30187222/)
+*  [威尼斯日记](https://book.douban.com/subject/30309619/)
+*  [西班牙旅行笔记](https://book.douban.com/subject/26683416/)
+*  [老巴塔哥尼亚快车](https://book.douban.com/subject/30247391/)
+*  [巴西：未来之国](https://book.douban.com/subject/21714777/)
+*  [土星之环](https://book.douban.com/subject/35089547/)
+*  [当我在一个仲夏夜出走](https://book.douban.com/subject/30358504/)
+*  [带一本书去巴黎](https://book.douban.com/subject/25748016/)
+*  [巴黎伦敦落魄记](https://book.douban.com/subject/27050197/)
+*  [本雅明传](https://book.douban.com/subject/35812425/)
+*  [单行道](https://book.douban.com/subject/34868494/)
+*  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
 
