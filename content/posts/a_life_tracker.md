@@ -12,6 +12,8 @@ hardest for this blue print. Methods are developed, just as those in scientific 
 to solve the infinite cycles of problems. However, we are prone to drift along aimlessly, 
 with all distractions in personal and professional life. 
 
+{{< youtube rORIDYHOFTQ >}}
+
 Contents:
 * [Blogs and Columns](#blogs-and-columns)
 * [YouTube channels](#youtube-channels)
