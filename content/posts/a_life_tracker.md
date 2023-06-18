@@ -9,7 +9,7 @@ tags    = ['life']
 Life repeats itself over and over, but taking control of one's own life is never an easy thing. 
 Every one of us was a born engineer. We imagine and design the ideal life style and live the 
 hardest for this blue print. Methods are developed, just as those in scientific research, 
-to solve the endless cycles of problems. However, we are prone to drift along aimlessly, 
+to solve endless cycles of problems. However, we are prone to drift along aimlessly, 
 with all the distractions in our personal and professional life. 
 
 {{< youtube rORIDYHOFTQ >}}
@@ -50,7 +50,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91FRchndfbL.jpg"
+    src="https://m.media-amazon.com/images/I/91Ov5xU2wXL._AC_UF1000,1000_QL80_.jpg"
     link="https://www.goodreads.com/en/book/show/54390345"
     title="A Most Remarkable Creature"
     class="book-covers"
@@ -66,7 +66,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Q4uUdbqNL.jpg"
+    src="https://images.randomhouse.com/cover/9780241970065"
     link="https://www.goodreads.com/book/show/23630654-the-art-of-travel"
     class="book-covers"
 >}}
