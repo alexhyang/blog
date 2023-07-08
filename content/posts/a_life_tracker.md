@@ -111,6 +111,14 @@ Contents:
     attr="(2023/05/__ ~ )"
 >}}
 
+{{< figure
+    src="https://m.media-amazon.com/images/I/71BLaGa-j8L._SL1500_.jpg"
+    link="https://www.goodreads.com/en/book/show/59900070"
+    title="Stay True"
+    class="book-covers"
+    attr="(2023/07/__ ~ )"
+>}}
+
 ### Waitlist
 *  [余下的只有噪音](https://book.douban.com/subject/34978358/)
 *  [基地前奏](https://book.douban.com/subject/26389893/)
@@ -130,6 +138,13 @@ Contents:
 
 ### Read
 
+{{< figure
+    src="https://m.media-amazon.com/images/I/71VfhEHWb+L._AC_UF1000,1000_QL80_.jpg"
+    link="https://book.douban.com/subject/35552619/"
+    title="我的阿勒泰"
+    class="book-covers"
+    attr="(2023/06/06 ~ 07/07)"
+>}}
 
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
