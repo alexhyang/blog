@@ -139,7 +139,7 @@ Contents:
 ### Read
 
 {{< figure
-    src="https://m.media-amazon.com/images/I/71VfhEHWb+L._AC_UF1000,1000_QL80_.jpg"
+    src="/book-covers/Li_Juan-My_Altay.jpg"
     link="https://book.douban.com/subject/35552619/"
     title="我的阿勒泰"
     class="book-covers"
@@ -245,7 +245,7 @@ Contents:
 >}}
 
 {{< figure
-    src="https://img.211cn.ca/books/2471.jpg"
+    src="/book-covers/Clarke_Arthur-2001_A_Space_Odyssey-cn.jpg"
     link="https://book.douban.com/subject/30471298/"
     title="2001太空漫游"
     class="book-covers"
