@@ -42,6 +42,14 @@ Contents:
 ## Books
 
 {{< figure
+    src="/book-covers/Burroughs_John-Wake_Robin.jpg"
+    link="https://book.douban.com/subject/26377147/"
+    title="Wake-Robin"
+    class="book-covers"
+    attr="(2023/07/08 ~ )"
+>}}
+
+{{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"
     link="https://www.goodreads.com/book/show/283901.Tristes_Tropiques"
     title="Tristes Tropiques"
