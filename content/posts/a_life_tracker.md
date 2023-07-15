@@ -42,6 +42,22 @@ Contents:
 ## Books
 
 {{< figure
+    src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
+    link="https://www.goodreads.com/book/show/57143821-klara-and-the-sun"
+    title="Klara and the Sun"
+    class="book-covers"
+    attr="(2023/07/15 ~ )"
+>}}
+
+{{< figure
+    src="/book-covers/Berne_Eric-Games_People_Play.jpg"
+    link="https://www.goodreads.com/book/show/13245420-games-people-play"
+    title="Games People Play"
+    class="book-covers"
+    attr="(2023/07/__ ~ )"
+>}}
+
+{{< figure
     src="/book-covers/Burroughs_John-Wake_Robin.jpg"
     link="https://book.douban.com/subject/26377147/"
     title="Wake-Robin"
