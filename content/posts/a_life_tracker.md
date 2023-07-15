@@ -147,6 +147,23 @@ Contents:
 ### Read
 
 {{< figure
+    src="/book-covers/Deboard_Robert-Counselling_For_Toads.jpg"
+    link="https://book.douban.com/subject/35143790/"
+    title="蛤蟆先生去看心理医生"
+    class="book-covers"
+    attr="(2023/07/13 ~ 07/15)"
+>}}
+
+    书中的三个重要概念：ego state, life postitions, and *games people play*.
+
+    蛤蟆先生从咨询里好转的过程未免也太过顺利了，似乎只是患了一场普通的感冒，
+    遵从医嘱只吃完十次药就能神奇地康复，现实中的治疗真有这么容易吗？在作者眼
+    里，蛤蟆先生的痛苦是轻飘飘的、弹指一挥就能解决的痛苦，在理想的治疗之下解
+    释两三个理论概念，他的烦恼就能随之烟消云散，这是全知全能的傲慢吗？不过话
+    由说回来，这本书出版于40年前，对于那个时代来讲，能把这个话题带入公众视野
+    或许就已经相当了不起了吧。
+
+{{< figure
     src="/book-covers/Li_Juan-My_Altay.jpg"
     link="https://book.douban.com/subject/35552619/"
     title="我的阿勒泰"
@@ -156,7 +173,7 @@ Contents:
 
 {{< figure
     src="https://images-cn.ssl-images-amazon.cn/images/I/41b64uB3OUL.jpg"
-    link="https://book.douban.com/subject/26878124/"
+    ink="https://book.douban.com/subject/26878124/"
     class="book-covers"
 >}}
 
