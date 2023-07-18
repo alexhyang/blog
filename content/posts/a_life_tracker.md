@@ -42,14 +42,6 @@ Contents:
 ## Books
 
 {{< figure
-    src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
-    link="https://www.goodreads.com/book/show/57143821-klara-and-the-sun"
-    title="Klara and the Sun"
-    class="book-covers"
-    attr="(2023/07/15 ~ )"
->}}
-
-{{< figure
     src="/book-covers/Berne_Eric-Games_People_Play.jpg"
     link="https://www.goodreads.com/book/show/13245420-games-people-play"
     title="Games People Play"
@@ -161,6 +153,14 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+
+{{< figure
+    src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
+    link="https://www.goodreads.com/book/show/57143821-klara-and-the-sun"
+    title="Klara and the Sun"
+    class="book-covers"
+    attr="(2023/07/15 ~ 07/17)"
+>}}
 
 {{< figure
     src="/book-covers/Deboard_Robert-Counselling_For_Toads.jpg"
