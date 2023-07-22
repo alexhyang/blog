@@ -155,6 +155,14 @@ Contents:
 ### Read
 
 {{< figure
+    src="https://pic2.zhimg.com/80/v2-398584d550fdab1c2a898035f1e0c4f9_1440w.webp"
+    link="https://book.douban.com/subject/26576861/"
+    title="Being Mortal"
+    class="book-covers"
+    attr="(2023/07/18 ~ 07/22)"
+>}}
+
+{{< figure
     src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
     link="https://www.goodreads.com/book/show/57143821-klara-and-the-sun"
     title="Klara and the Sun"
