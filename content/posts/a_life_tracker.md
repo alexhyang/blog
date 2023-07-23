@@ -162,6 +162,12 @@ Contents:
     attr="(2023/07/18 ~ 07/22)"
 >}}
 
+喜欢作者父亲的故事。面对死亡，从医一辈子的父亲在判断和决策时也会面临普通
+人的恐惧，害怕因瘫痪失去行动能力，抗拒延长生命的尝试和努力。医生不再是掌
+握权威的审判者，无论拥有多少医学知识，我们都一样，一样要面对生命的最后一
+刻。《也许你该找个人聊聊》里也用到类似的写作手法，咨询师经历过类似的痛苦
+，理解困境，所以能更好地共情："I understand. I've been there."
+
 {{< figure
     src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
     link="https://www.goodreads.com/book/show/57143821-klara-and-the-sun"
