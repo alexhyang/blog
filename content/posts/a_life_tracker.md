@@ -6,11 +6,11 @@ author  = "Alex"
 tags    = ['life']
 +++
 
-Life repeats itself over and over, but taking control of one's own life is never an easy thing. 
-Every one of us was a born engineer. We imagine and design the ideal life style and live the 
-hardest for this blue print. Methods are developed, just as those in scientific research, 
-to solve endless cycles of problems. However, we are prone to drift along aimlessly, 
-with all the distractions in our personal and professional life. 
+Life repeats itself over and over, but taking control of one's own life is never an easy thing.
+Every one of us was a born engineer. We imagine and design the ideal life style and live the
+hardest for this blue print. Methods are developed, just as those in scientific research,
+to solve endless cycles of problems. However, we are prone to drift along aimlessly,
+with all the distractions in our personal and professional life.
 
 {{< youtube rORIDYHOFTQ >}}
 
@@ -22,6 +22,7 @@ Contents:
 ## Blogs and Columns
 | Title                                                      | Author         | Tags                        |
 |------------------------------------------------------------|----------------|-----------------------------|
+| [写点什么](https://t.me/s/verbatimetliteratim)             | Xiaxia         | writing, life               |
 | [Catch Me in the Wild](https://nananadanada.substack.com/) | Nana           | writing                     |
 | [HuoJu's Blog](https://jhuo.ca/)                           | HuoJu          | tech, Internet, open-source |
 | [Wait But Why](https://waitbutwhy.com/)                    | Tim Urban      | long-posts                  |
@@ -135,7 +136,7 @@ Contents:
     attr="(2023/07/__ ~ )"
 >}}
 
-### Waitlist
+### Wishlist
 *  [余下的只有噪音](https://book.douban.com/subject/34978358/)
 *  [基地前奏](https://book.douban.com/subject/26389893/)
 *  [美丽新世界](https://book.douban.com/subject/27002046/)
@@ -331,6 +332,6 @@ Contents:
     attr="(2022/11/23 ~ 12/2)"
 >}}
 
-### [Refs](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html)
+#### [Refs](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html)
 1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
 2.  Myers, David G., and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
