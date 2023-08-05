@@ -51,14 +51,6 @@ Contents:
 >}}
 
 {{< figure
-    src="/book-covers/Burroughs_John-Wake_Robin.jpg"
-    link="https://book.douban.com/subject/26377147/"
-    title="Wake-Robin"
-    class="book-covers"
-    attr="(2023/07/08 ~ )"
->}}
-
-{{< figure
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302750303i/283901.jpg"
     link="https://www.goodreads.com/book/show/283901.Tristes_Tropiques"
     title="Tristes Tropiques"
@@ -156,18 +148,28 @@ Contents:
 ### Read
 
 {{< figure
+    src="/book-covers/Burroughs_John-Wake_Robin.jpg"
+    link="https://book.douban.com/subject/26377147/"
+    title="Wake-Robin"
+    class="book-covers"
+    attr="(2023/07/08 ~ 07/31)"
+>}}
+分不清是因为鸟儿可爱感染到作者，还是因为热爱所以作者笔下的鸟儿显得惟妙惟肖，人
+有热爱的事物真好啊！
+
+{{< figure
     src="https://pic2.zhimg.com/80/v2-398584d550fdab1c2a898035f1e0c4f9_1440w.webp"
     link="https://book.douban.com/subject/26576861/"
     title="Being Mortal"
     class="book-covers"
     attr="(2023/07/18 ~ 07/22)"
 >}}
-
-喜欢作者父亲的故事。面对死亡，从医一辈子的父亲在判断和决策时也会面临普通
-人的恐惧，害怕因瘫痪失去行动能力，抗拒延长生命的尝试和努力。医生不再是掌
-握权威的审判者，无论拥有多少医学知识，我们都一样，一样要面对生命的最后一
-刻。《也许你该找个人聊聊》里也用到类似的写作手法，咨询师经历过类似的痛苦
-，理解困境，所以能更好地共情："I understand. I've been there."
+喜欢作者父亲的故事。面对死亡，从医一辈子的父亲在判断和决策时也会面临普通人的恐
+惧，害怕因瘫痪失去行动能力，抗拒延长生命的尝试和努力。医生不再是掌握权威的审判
+者，无论拥有多少医学知识，我们都一样，一样要面对生命的最后一刻。《也许你该找个
+人聊聊》里也用到类似的写作手法，咨询师不会因为了解情绪的工作方式就变得对痛苦免
+疫，身处其中比置身事外要困难得多，只有理解类似的困境，才能更好地共情："I
+understand you because I've been there."
 
 {{< figure
     src="/book-covers/Ishiguro_Kazuo-Klara_and_the_Sun.jpg"
@@ -184,7 +186,6 @@ Contents:
     class="book-covers"
     attr="(2023/07/13 ~ 07/15)"
 >}}
-
 书中的三个重要概念：ego state, life postitions, and *games people play*.
 
 蛤蟆先生从咨询里好转的过程未免也太过顺利了，似乎只是患了一场普通的感冒，
@@ -331,7 +332,3 @@ Contents:
     class="book-covers"
     attr="(2022/11/23 ~ 12/2)"
 >}}
-
-#### [Refs](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_books.html)
-1.  Kline, Morris. _Mathematical Thought from Ancient to Modern Times_. Vol. 2, Oxford University Press, 1990.
-2.  Myers, David G., and Jean M. Twenge. _Social Psychology_. 13th ed., Mc Graw Hill Education, 2019.
