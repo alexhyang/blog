@@ -44,7 +44,7 @@ Contents:
 {{< figure
     src="/book-covers/Remarque_Erich-Im_Westen_nichts_Neues.jpg"
     link="https://book.douban.com/subject/26324832/"
-    title="Im_Westen_nichts_Neues"
+    title="Im Westen nichts Neues"
     class="book-covers"
     attr="(2023/07/31 ~ )"
 >}}
