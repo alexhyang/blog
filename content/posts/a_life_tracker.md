@@ -50,6 +50,14 @@ Contents:
 >}}
 
 {{< figure
+    src="/book-covers/Yukino_Noritake-et_al-Voyage_au_pays_des_odeurs.jpg"
+    link="https://book.douban.com/subject/36228095/"
+    title="Voyage au pays des odeurs"
+    class="book-covers"
+    attr="(2023/08/__ ~ )"
+>}}
+
+{{< figure
     src="/book-covers/Berne_Eric-Games_People_Play.jpg"
     link="https://www.goodreads.com/book/show/13245420-games-people-play"
     title="Games People Play"
