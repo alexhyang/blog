@@ -239,6 +239,16 @@ figure.book-cover-design img {
   text-align: center;
 }
 
+figure.mills-book {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}
+figure.mills-book img {
+  width: 100%;
+  max-width: 100%;
+}
+
 pre {
   line-break: anywhere;
   word-break: break-all;
