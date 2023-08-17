@@ -41,13 +41,6 @@ Contents:
 | [Computerphile](https://www.youtube.com/@Computerphile)                 | Sean Riley           | computer science |
 
 ## Books
-{{< figure
-    src="/book-covers/Remarque_Erich-Im_Westen_nichts_Neues.jpg"
-    link="https://book.douban.com/subject/26324832/"
-    title="Im Westen nichts Neues"
-    class="book-covers"
-    attr="(2023/07/31 ~ )"
->}}
 
 {{< figure
     src="/book-covers/Yukino_Noritake-et_al-Voyage_au_pays_des_odeurs.jpg"
@@ -161,6 +154,13 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+{{< figure
+    src="/book-covers/Remarque_Erich-Im_Westen_nichts_Neues.jpg"
+    link="https://book.douban.com/subject/26324832/"
+    title="Im Westen nichts Neues"
+    class="book-covers"
+    attr="(2023/07/31 ~ 08/15)"
+>}}
 
 {{< figure
     src="/book-covers/Burroughs_John-Wake_Robin.jpg"
