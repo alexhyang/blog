@@ -2,6 +2,7 @@ baseURL = "https://sleepyalex.ca"
 languageCode = "en-us"
 title = "Alex's Notebook"
 enableGitInfo = true
+theme="myTheme"
 
 [taxonomies]
    tag = "tags"
@@ -20,7 +21,7 @@ hasCJKLanguage = true
 [[module.imports]]
   # path = "github.com/spf13/hyde"
   # path = "github.com/vimux/blank"
-  path = "github.com/alexhyang/blank"
+  # path = "github.com/alexhyang/blank"
 
 # Hugo Configure Markup
 # see: https://gohugo.io/getting-started/configuration-markup#highlight
