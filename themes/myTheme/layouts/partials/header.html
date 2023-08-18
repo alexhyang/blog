@@ -1,3 +1,9 @@
-<header class="w-full bg-red-300">
-  <h1 class="text-center text-2xl">Welcome to HugoTails!</h1>
+<header>
+  {{ with .Site.Menus.main }}
+  <nav class="navigation">
+    {{ range . }}
+    <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+  {{ end }}
 </header>
