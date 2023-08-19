@@ -21,6 +21,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install node dependencies
+        run: yarn
+
       - name: Build
         run: hugo --minify
 
