@@ -1,9 +1,17 @@
-<header>
+<header class="bg-gray-100 text-gray-500">
   {{ with .Site.Menus.main }}
-  <nav class="navigation">
-    {{ range . }}
-    <a href="{{ .URL | relURL }}">{{ .Name }}</a>
-    {{ end }}
+  <nav class="container mx-auto flex items-center p-3">
+    <ul class="flex space-x-5 align-middle">
+      {{ range . }}
+      <li>
+        <a
+          class="hover:text-gray-800 hover:text-black hover:underline"
+          href="{{ .URL | relURL }}"
+          >{{ .Name }}</a
+        >
+      </li>
+      {{ end }}
+    </ul>
   </nav>
   {{ end }}
 </header>
