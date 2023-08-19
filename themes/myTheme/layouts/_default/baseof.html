@@ -3,7 +3,9 @@
   {{ partial "head" }}
   <body>
     {{ partial "header" . }}
+    <main class="container mx-auto p-3 w-full lg:max-w-4xl 2xl:max-w-5xl">
     {{ block "main" . }}{{ end }}
+    </main>
     {{ partial "footer" . }}
   </body>
 </html>

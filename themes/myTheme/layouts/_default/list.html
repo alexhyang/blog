@@ -1,5 +1,4 @@
 {{ define "main" }}
-<main class="container mx-auto p-3 w-full">
   {{ if or .Title .Content }}
   <div class="mb-3">
     {{ with .Title }}
@@ -13,5 +12,4 @@
   {{ range .Paginator.Pages }} {{ .Render "summary" }}
   {{ end }}
   {{ partial "pagination.html" . }}
-</main>
 {{ end }}
