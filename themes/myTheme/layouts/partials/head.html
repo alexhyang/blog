@@ -1,0 +1,31 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  {{ with .Site.Params.description }}
+  <meta name="description" content="{{ . }}" />
+  {{ end }}
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}" />
+  {{ end }}
+  {{ $styles := resources.Get "css/styles.scss" | toCSS | postCSS
+  (dict "config" "./assets/css/postcss.config.js") }}
+  {{ if .Site.IsServer }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
+  {{ else }}
+  {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
+  <link
+    rel="stylesheet"
+    href="{{ $styles.Permalink }}"
+    integrity="{{ $styles.Data.Integrity }}"
+  />
+  {{ end }}
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.jgp" type="image/jpg">
+  <link rel="icon" href="images/favicon.png" type="image/png">
+  <title>{{ .Site.Title }}</title>
+  <a rel="me" href="https://mastodon.social/@sleepy_alex"></a>
+  {{ with .OutputFormats.Get "RSS" -}} {{ printf `
+  <link rel="%s" type="%s" href="%s" title="%s" />
+  ` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }} {{- end }}
+</head>

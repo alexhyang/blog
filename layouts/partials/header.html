@@ -1,9 +1,0 @@
-<header>
-	{{ with .Site.Menus.main }}
-	<nav class="navigation">
-			{{ range . }}
-			<a href="{{ .URL | relURL }}">{{ .Name }}</a>
-			{{ end }}
-	</nav>
-	{{ end }}
-</header>
