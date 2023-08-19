@@ -1,39 +1,44 @@
 {{ define "main" }}
-	<main>
-		<article class="post">
-			<header class="post-header">
-				<h1 class="post-title">{{ .Title }}</h1>
-				<div class="post-meta">
-					<time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
-						{{ .Date.Format "Jan 02, 2006" }}
-					</time>
-				</div>
-			</header>
-			<div class="post-content">
-				{{ .Content }}
-			</div>
-			<div class="post-footer">
-				<div class="post-meta">
-					Last Modified: 
-					<span>
-						<time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
-							{{ .Lastmod.Format "Jan 02, 2006" }}
-						</time>
-					</span>
-				</div>
-				{{ with .Params.tags }}
-				<div class="post-tags">
-						{{ range . }}
-						<span><a class="post-tag-link" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-						{{ end }}
-				</div>
-				{{ end }}
-			</div>
-			{{ with .Site.DisqusShortname }}
-			<div>
-				{{ template "_internal/disqus.html" . }}
-			</div>
-			{{ end }}
-		</article>
-	</main>
+<main class="container mx-auto p-3 w-full">
+  <article class="mb-5">
+    <header class="mb-5">
+      <h1 class="text-3xl font-bold mb-3">{{ .Title }}</h1>
+      <div>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
+          Published:
+          <span class="italic">
+            {{ .PublishDate.Format "Jan. 02, 2006" }}
+          </span>
+        </time>
+      </div>
+      {{ if gt (sub .Lastmod.Unix .PublishDate.Unix) 18000 }}
+      <div>
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
+          Updated:
+          <span class="italic">{{ .Lastmod.Format "Jan. 02, 2006" }}</span>
+        </time>
+      </div>
+      {{ end }}
+    </header>
+    <div class="mb-5">
+      {{ .Content }}
+    </div>
+    <div class="mb-5">
+      {{ with .Params.tags }}
+      <div>
+        {{ range . }}
+        <span>
+          <a
+            class="underline"
+            href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
+          >
+            #{{ . }}
+          </a>
+        </span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </article>
+</main>
 {{ end }}

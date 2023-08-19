@@ -1,19 +1,28 @@
-<article class="post">
-	<header class="post-header">
-		<h1 class="post-title">
+<article class="mb-5">
+	<header class="mb-1">
+    {{ if eq page.Title "Tags" }}
+		<h1 class="text-xl underline">
+			<a href="{{ .Permalink }}">#{{ .Title }}</a>
+		</h1>
+    {{ else }}
+		<h1 class="text-xl font-semibold">
 			<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</h1>
-		<div class="post-meta">
-			<time datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
+		<div>
+			<time
+        class="text-gray-400 italic"
+        datetime="{{ .Date.Format "2006-01-02T15:04:05" }}"
+      >
 				{{ .Date.Format "Jan 02, 2006" }}
 			</time>
 		</div>
+    {{ end }}
 	</header>
 	<div class="post-content">
 		<div class="post-summary">
 			{{ .Summary }}
 		</div>
-		<div class="read-more">
+		<div class="underline">
 			{{ if .Truncated }}
 				<a href="{{ .Permalink }}" class="read-more-link">
 					Read more...
