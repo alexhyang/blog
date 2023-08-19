@@ -23,9 +23,9 @@
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="images/favicon.jgp" type="image/jpg">
   <link rel="icon" href="images/favicon.png" type="image/png">
+  {{ with .OutputFormats.Get "RSS" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />`
+      .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+  {{- end }}
   <title>{{ .Site.Title }}</title>
-  <a rel="me" href="https://mastodon.social/@sleepy_alex"></a>
-  {{ with .OutputFormats.Get "RSS" -}} {{ printf `
-  <link rel="%s" type="%s" href="%s" title="%s" />
-  ` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }} {{- end }}
 </head>
