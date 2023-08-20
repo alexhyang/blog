@@ -2,6 +2,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>{{ .Site.Title }}</title>
   {{ with .Site.Params.description }}
   <meta name="description" content="{{ . }}" />
   {{ end }}
@@ -27,5 +28,4 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />`
       .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
   {{- end }}
-  <title>{{ .Site.Title }}</title>
 </head>
