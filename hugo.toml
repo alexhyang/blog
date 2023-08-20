@@ -1,0 +1,102 @@
+# ==========
+# Site params/settings
+# ==========
+baseURL = "https://sleepyalex.ca"
+languageCode = "en-us"
+# theme="myTheme"
+# detect zh/ja/ko languages for word count
+hasCJKLanguage = true
+# enable git info for lastmod
+enableGitInfo = true
+title = "Alex's Notebook"
+
+[params]
+  author = "Alex Yang"
+  description = "A notebook"
+  enableRSS = true
+  # To enable comments, you may need to set `disqusShortname`
+  enableComments = false
+  # To enable comments, you may need to set `googleAnalytics`
+  enableGoogleAnalytics = true
+  googleAnalytics = ""
+  # Author biography
+  bio = ""
+
+# ==========
+# Theme
+# ==========
+disableKinds = ["page", "section", "taxonomy", "term"]
+[module]
+  [module.hugoVersion]
+    extended = true
+    min      = "0.112.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
+
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js|ts|jsx|tsx)"
+    target = "js"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"
+# ==========
+# Menus and Links
+# ==========
+# https://gohugo.io/content-management/menus/#define-in-site-configuration
+# https://gohugo.io/content-management/menus/#properties-site-configuration
+[menus]
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  Weight = -1
+[[menu.main]]
+  name = "Archives"
+  pageRef = "/posts/"
+[[menu.main]]
+  name = "Tags"
+  pageRef = "/tags/"
+
+# Social links in footer, support github,twitter,stackoverflow,facebook
+[social]
+   # e.g.
+   # github = "https://github.com/alexhyang"
+   # twitter: your-github-link
+   # stackoverflow: your-github-link
+   # facebook: your-facebook-link
+
+# ==========
+# Posts
+# ==========
+# https://gohugo.io/content-management/taxonomies/#configure-taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  posts = "/posts/:title/"
+
+# https://gohugo.io/getting-started/configuration/#configure-front-matter
+[frontmatter]
+  date=['date', 'publishDate', 'lastmod']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
+
+# Markup
+# see: https://gohugo.io/getting-started/configuration-markup#highlight
+[markup]
+  [markup.highlight]
+    guessSyntax = true
+    style = "emacs"
+
