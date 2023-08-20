@@ -155,6 +155,14 @@ Contents:
 
 ### Read
 {{< figure
+    src="https://m.media-amazon.com/images/I/61XnJFG5OgL._AC_UF1000,1000_QL80_.jpg"
+    link="https://book.douban.com/subject/33440205/"
+    title="Educated"
+    class="book-covers"
+    attr="(2023/08/16 ~ 08/19)"
+>}}
+
+{{< figure
     src="/book-covers/Remarque_Erich-Im_Westen_nichts_Neues.jpg"
     link="https://book.douban.com/subject/26324832/"
     title="Im Westen nichts Neues"
