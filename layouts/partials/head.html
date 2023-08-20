@@ -10,7 +10,7 @@
   <meta name="author" content="{{ . }}" />
   {{ end }}
   {{ $styles := resources.Get "css/styles.scss" | toCSS | postCSS
-  (dict "config" "./assets/css/postcss.config.js") }}
+  (dict "config" "./postcss.config.js") }}
   {{ if .Site.IsServer }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
   {{ else }}
