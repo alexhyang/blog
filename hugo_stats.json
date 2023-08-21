@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "blockquote",
       "body",
       "div",
       "em",
@@ -25,7 +24,6 @@
       "meta",
       "nav",
       "p",
-      "script",
       "span",
       "table",
       "tbody",
@@ -42,7 +40,6 @@
       "align-middle",
       "bg-gray-100",
       "book-cover-design",
-      "book-covers",
       "container",
       "flex",
       "font-bold",
@@ -61,7 +58,6 @@
       "lg:w-5/12",
       "mb-1",
       "mb-3",
-      "mb-5",
       "mb-8",
       "md:prose-lg",
       "md:space-x-4",
@@ -88,7 +84,6 @@
       "w-full"
     ],
     "ids": [
-      "-head",
       "blogs-and-columns",
       "books",
       "main",
