@@ -4,5 +4,6 @@ module.exports = {
     // 'postcss-import': { path: [themeDir] },
     tailwindcss: {},
     autoprefixer: {},
+    ...(process.env.NODE_ENV === 'production' ? { cssnano: {} } : {})
   },
 };
