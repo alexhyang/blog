@@ -8,7 +8,7 @@ languageCode = "en-us"
 hasCJKLanguage = true
 # enable git info for lastmod
 enableGitInfo = true
-title = "Alex's Notebook"
+title = "Alex"
 
 [params]
   author = "Alex Yang"
