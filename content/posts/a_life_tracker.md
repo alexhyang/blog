@@ -42,6 +42,13 @@ Contents:
 
 ## Books
 {{< book
+    src="/book-covers/Hessler_Peter-River_Town-cn.jpg"
+    link="https://book.douban.com/subject/7060185/"
+    title="River Town"
+    attr="(2023/08/21 ~ )"
+>}}
+
+{{< book
     src="/book-covers/Yukino_Noritake-et_al-Voyage_au_pays_des_odeurs.jpg"
     link="https://book.douban.com/subject/36228095/"
     title="Voyage au pays des odeurs"
