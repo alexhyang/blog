@@ -42,7 +42,7 @@ Contents:
 
 ## Books
 {{< book
-    src="/book-covers/Lem_Stanislaw-Kongres_Futorologiczny.jpg"
+    src="/book-covers/Lem_Stanislaw-Kongres_Futurologiczny.jpg"
     link="https://book.douban.com/subject/35330057/"
     title="Kongres Futurologiczny"
     attr="(2023/08/27 ~ )"
