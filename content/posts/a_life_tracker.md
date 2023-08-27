@@ -42,10 +42,10 @@ Contents:
 
 ## Books
 {{< book
-    src="/book-covers/Hessler_Peter-River_Town-cn.jpg"
-    link="https://book.douban.com/subject/7060185/"
-    title="River Town"
-    attr="(2023/08/21 ~ )"
+    src="/book-covers/Lem_Stanislaw-Kongres_Futorologiczny.jpg"
+    link="https://book.douban.com/subject/35330057/"
+    title="Kongres Futurologiczny"
+    attr="(2023/08/27 ~ )"
 >}}
 
 {{< book
@@ -148,6 +148,13 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+{{< book
+    src="/book-covers/Hessler_Peter-River_Town-cn.jpg"
+    link="https://book.douban.com/subject/7060185/"
+    title="River Town"
+    attr="(2023/08/21 ~ 8/26)"
+>}}
+
 {{< book
     src="https://m.media-amazon.com/images/I/61XnJFG5OgL._AC_UF1000,1000_QL80_.jpg"
     link="https://book.douban.com/subject/33440205/"
