@@ -42,6 +42,13 @@ Contents:
 
 ## Books
 {{< book
+    src="/book-covers/Berlin_Isaiah-Freedom_and_its_Betrayal.jpg"
+    link="https://book.douban.com/subject/6068432/"
+    title="Freedom and its Betrayal"
+    attr="(2023/08/28 ~ , mentioned in Educated)"
+>}}
+
+{{< book
     src="/book-covers/Lem_Stanislaw-Kongres_Futurologiczny.jpg"
     link="https://book.douban.com/subject/35330057/"
     title="Kongres Futurologiczny"
@@ -49,17 +56,17 @@ Contents:
 >}}
 
 {{< book
-    src="/book-covers/Yukino_Noritake-et_al-Voyage_au_pays_des_odeurs.jpg"
-    link="https://book.douban.com/subject/36228095/"
-    title="Voyage au pays des odeurs"
-    attr="(2023/08/__ ~ )"
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg"
+    link="https://www.goodreads.com/en/book/show/3240085"
+    title="Mathematical Thought from Ancient to Modern Times Vol. 2"
+    attr="(2023/04/22 ~ )"
 >}}
 
 {{< book
-    src="/book-covers/Berne_Eric-Games_People_Play.jpg"
-    link="https://www.goodreads.com/book/show/13245420-games-people-play"
-    title="Games People Play"
-    attr="(2023/07/__ ~ )"
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536382756i/41737051.jpg"
+    link="https://www.goodreads.com/book/show/41737051-social-psychology"
+    title="Social Psychology"
+    attr="(2023/04/22 ~ )"
 >}}
 
 {{< book
@@ -77,13 +84,6 @@ Contents:
 >}}
 
 {{< book
-    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg"
-    link="https://www.goodreads.com/en/book/show/3240085"
-    title="Mathematical Thought from Ancient to Modern Times Vol. 2"
-    attr="(2023/04/22 ~ )"
->}}
-
-{{< book
     src="https://images.randomhouse.com/cover/9780241970065"
     link="https://www.goodreads.com/book/show/23630654-the-art-of-travel"
 >}}
@@ -93,6 +93,34 @@ Contents:
     link="https://book.douban.com/subject/11505636/"
     title="旅行的艺术"
     attr="(2023/03/27 ~ )"
+>}}
+
+{{< book
+    src="/book-covers/Yukino_Noritake-et_al-Voyage_au_pays_des_odeurs.jpg"
+    link="https://book.douban.com/subject/36228095/"
+    title="Voyage au pays des odeurs"
+    attr="(2023/08/__ ~ )"
+>}}
+
+{{< book
+    src="/book-covers/Berne_Eric-Games_People_Play.jpg"
+    link="https://www.goodreads.com/book/show/13245420-games-people-play"
+    title="Games People Play"
+    attr="(2023/07/__ ~ , mentioned in Counselling For Toads)"
+>}}
+
+{{< book
+    src="https://m.media-amazon.com/images/I/71BLaGa-j8L._SL1500_.jpg"
+    link="https://www.goodreads.com/en/book/show/59900070"
+    title="Stay True"
+    attr="(2023/07/__ ~ )"
+>}}
+
+{{< book
+    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410286994i/406148.jpg"
+    link="https://www.goodreads.com/book/show/406148.Gulag"
+    title="Gulag: A History"
+    attr="(2023/05/__ ~ )"
 >}}
 
 {{< book
@@ -107,27 +135,6 @@ Contents:
     link="https://book.douban.com/subject/3198682/"
     title="从地球到月球"
     attr="(2023/04/__ ~ )"
->}}
-
-{{< book
-    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536382756i/41737051.jpg"
-    link="https://www.goodreads.com/book/show/41737051-social-psychology"
-    title="Social Psychology"
-    attr="(2023/04/22 ~ )"
->}}
-
-{{< book
-    src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410286994i/406148.jpg"
-    link="https://www.goodreads.com/book/show/406148.Gulag"
-    title="Gulag: A History"
-    attr="(2023/05/__ ~ )"
->}}
-
-{{< book
-    src="https://m.media-amazon.com/images/I/71BLaGa-j8L._SL1500_.jpg"
-    link="https://www.goodreads.com/en/book/show/59900070"
-    title="Stay True"
-    attr="(2023/07/__ ~ )"
 >}}
 
 ### Wishlist
