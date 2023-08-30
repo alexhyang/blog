@@ -58,7 +58,7 @@ Contents:
 {{< book
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg"
     link="https://www.goodreads.com/en/book/show/3240085"
-    title="Mathematical Thought from Ancient to Modern Times Vol. 2"
+    title="Mathematical Thought from Ancient to Modern Times Vol.2"
     attr="(2023/04/22 ~ )"
 >}}
 
