@@ -45,7 +45,8 @@ Contents:
     src="/book-covers/Berlin_Isaiah-Freedom_and_its_Betrayal.jpg"
     link="https://book.douban.com/subject/6068432/"
     title="Freedom and its Betrayal"
-    attr="(2023/08/28 ~ , mentioned in Educated)"
+    mentionedIn="Educated"
+    attr="(2023/08/28 ~ )"
 >}}
 
 {{< book
@@ -106,7 +107,8 @@ Contents:
     src="/book-covers/Berne_Eric-Games_People_Play.jpg"
     link="https://www.goodreads.com/book/show/13245420-games-people-play"
     title="Games People Play"
-    attr="(2023/07/__ ~ , mentioned in Counselling For Toads)"
+    mentionedIn="Counselling For Toads"
+    attr="(2023/07/__ ~ )"
 >}}
 
 {{< book
