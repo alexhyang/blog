@@ -1,9 +1,14 @@
-<figure class="mx-auto text-center w-2/3 md:w-1/2 lg:w-5/12">
-  <a href="{{ .Get "link" }}">
-    <img class="w-full" src="{{ .Get "src" }}">
-  </a>
-  <figcaption>
-    <h4>{{ .Get "title"}}</h4>
-    <p>{{ .Get "attr" }}</p>
-  </figcaption>
+<figure class="not-prose mx-auto text-center flex flex-col sm:flex-row">
+  <div class="w-3/5 mx-auto">
+    <a href="{{ .Get "link" }}">
+      <img class="mx-auto w-full max-w-[250px]" src="{{ .Get "src" }}">
+    </a>
+  </div>
+  <figcaption
+    class="w-full text-center pt-2 pl-5 text-sm
+           sm:text-left sm:text-base md:text-lg lg:text-xl"
+  >
+    <h4 class="font-semibold">{{ .Get "title"}}</h4>
+    <p class="text-gray-600">{{ .Get "attr" }}</p>
+  </div>
 </figure>
