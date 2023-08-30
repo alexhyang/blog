@@ -24,6 +24,7 @@
       "meta",
       "nav",
       "p",
+      "script",
       "span",
       "table",
       "tbody",
@@ -39,7 +40,6 @@
       "2xl:max-w-5xl",
       "align-middle",
       "bg-gray-100",
-      "block",
       "book-cover-design",
       "container",
       "flex",
@@ -89,6 +89,7 @@
       "text-right",
       "text-sm",
       "text-xl",
+      "text-xs",
       "underline",
       "w-3/5",
       "w-full"
