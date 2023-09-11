@@ -42,6 +42,13 @@ Contents:
 
 ## Books
 {{< book
+    src="/book-covers/Munroe_Randall-What_If.jpg"
+    link="https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions"
+    title="What If? #1"
+    attr="(2023/09/__ ~ )"
+>}}
+
+{{< book
     src="/book-covers/Berlin_Isaiah-Freedom_and_its_Betrayal.jpg"
     link="https://book.douban.com/subject/6068432/"
     title="Freedom and its Betrayal"
