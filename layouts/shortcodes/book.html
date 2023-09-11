@@ -8,23 +8,20 @@
     </a>
   </div>
   <figcaption
-    class="w-full max-w-[250px]  text-center pt-2 pl-5 text-sm
-           sm:max-w-full sm:text-left sm:text-base
-           md:text-lg lg:text-xl"
+    class="w-full max-w-[250px] text-center
+           sm:max-w-full sm:text-left sm:pt-2 sm:pl-5"
   >
     <h4 class="font-semibold">{{ .Get "title"}}</h4>
-    {{ if .Get "mentionedIn" }}
-    <p class="text-gray-400 text-xs sm:text-sm md:text-base lg:text-lg">
-    mentioned in:
-    <span
-      class="italic text-gray-500 font-semibold"
-    >
-      {{ .Get "mentionedIn" }}
-    </span>
-    </p>
-    {{ end }}
-    <p
-      class="text-gray-400 text-xs sm:text-sm md:text-base lg:text-lg"
-    >{{ .Get "attr" }}</p>
+    <div class="text-gray-400 text-xs sm:text-sm md:text-base lg:text-lg">
+      {{ if .Get "mentionedIn" }}
+      <p>
+        mentioned in:
+        <span class="italic text-gray-500 font-semibold">
+          {{ .Get "mentionedIn" }}
+        </span>
+      </p>
+      {{ end }}
+      <p>{{ .Get "attr" }}</p>
+    </div>
   </div>
 </figure>
