@@ -57,13 +57,6 @@ Contents:
 >}}
 
 {{< book
-    src="/book-covers/Lem_Stanislaw-Kongres_Futurologiczny.jpg"
-    link="https://book.douban.com/subject/35330057/"
-    title="Kongres Futurologiczny"
-    attr="(2023/08/27 ~ )"
->}}
-
-{{< book
     src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347523653i/3240085.jpg"
     link="https://www.goodreads.com/en/book/show/3240085"
     title="Mathematical Thought from Ancient to Modern Times Vol.2"
@@ -164,6 +157,13 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+{{< book
+    src="/book-covers/Lem_Stanislaw-Kongres_Futurologiczny.jpg"
+    link="https://book.douban.com/subject/35330057/"
+    title="Kongres Futurologiczny"
+    attr="(2023/08/27 ~ 09/11)"
+>}}
+
 {{< book
     src="/book-covers/Hessler_Peter-River_Town-cn.jpg"
     link="https://book.douban.com/subject/7060185/"
