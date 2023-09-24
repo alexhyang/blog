@@ -42,6 +42,13 @@ Contents:
 
 ## Books
 {{< book
+    src="/book-covers/Sagan_Carl-Contact.jpg"
+    link="https://book.douban.com/subject/35701052/"
+    title="Contact"
+    attr="(2023/09/24 ~ )"
+>}}
+
+{{< book
     src="/book-covers/Munroe_Randall-What_If.jpg"
     link="https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions"
     title="What If? #1"
