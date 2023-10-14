@@ -42,13 +42,6 @@ Contents:
 
 ## Books
 {{< book
-    src="/book-covers/Sagan_Carl-Contact.jpg"
-    link="https://book.douban.com/subject/35701052/"
-    title="Contact"
-    attr="(2023/09/24 ~ )"
->}}
-
-{{< book
     src="/book-covers/Munroe_Randall-What_If.jpg"
     link="https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions"
     title="What If? #1"
@@ -164,6 +157,13 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+{{< book
+    src="/book-covers/Sagan_Carl-Contact.jpg"
+    link="https://book.douban.com/subject/35701052/"
+    title="Contact"
+    attr="(2023/09/24 ~ 10/14)"
+>}}
+
 {{< book
     src="/book-covers/Lem_Stanislaw-Kongres_Futurologiczny.jpg"
     link="https://book.douban.com/subject/35330057/"
