@@ -42,6 +42,13 @@ Contents:
 
 ## Books
 {{< book
+    src="/book-covers/Berlin_Isaiah-The_Roots_of_Romanticism.jpg"
+    link="https://book.douban.com/subject/3003032/"
+    title="The Roots of Romanticism"
+    attr="(2023/10/14 ~ )"
+>}}
+
+{{< book
     src="/book-covers/Munroe_Randall-What_If.jpg"
     link="https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions"
     title="What If? #1"
