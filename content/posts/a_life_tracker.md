@@ -322,7 +322,7 @@ understand you because I've been there."
 >}}
 
 {{< book
-    src="https://kbimages1-a.akamaihd.net/1ae05f71-3321-48e3-9464-230f1220b210/1200/1200/False/apMnxPB2dzSEsRA11qry4w.jpg"
+    src="/book-covers/Lem_Stanislaw-Solaris-cn.jpg"
     link="https://book.douban.com/subject/35049755/"
     title="索拉里斯星 ★★★★★"
     attr="(2023/01/22 ~ 01/24)"
