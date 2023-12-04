@@ -1,5 +1,5 @@
 +++
-title   = "A Life Tracker"
+title   = "A Life Log"
 date    = 2022-11-24T01:27:10-08:00
 draft   = false
 author  = "Alex"
