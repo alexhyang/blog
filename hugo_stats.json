@@ -15,6 +15,7 @@
       "h4",
       "head",
       "header",
+      "hr",
       "html",
       "iframe",
       "img",
@@ -26,6 +27,7 @@
       "p",
       "script",
       "span",
+      "strong",
       "table",
       "tbody",
       "td",
@@ -96,6 +98,8 @@
       "w-full"
     ],
     "ids": [
+      "2023",
+      "2024",
       "blogs-and-columns",
       "books",
       "main",
