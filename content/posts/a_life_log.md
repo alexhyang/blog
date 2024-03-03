@@ -164,6 +164,14 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+
+{{< book
+    src="/book-covers/Hawking_Stephen-A_Brief_History_of_Time.jpg"
+    link="https://book.douban.com/subject/1257217/"
+    title="A Brief History of Time"
+    attr="(2023/11/05 ~ 2024/02/25)"
+>}}
+
 {{< book
     src="/book-covers/Sagan_Carl-Contact.jpg"
     link="https://book.douban.com/subject/35701052/"
@@ -182,7 +190,7 @@ Contents:
     src="/book-covers/Hessler_Peter-River_Town-cn.jpg"
     link="https://book.douban.com/subject/7060185/"
     title="River Town"
-    attr="(2023/08/21 ~ 8/26)"
+    attr="(2023/08/21 ~ 08/26)"
 >}}
 
 {{< book
