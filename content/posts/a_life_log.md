@@ -20,6 +20,7 @@ Contents:
 * [Books](#books)
 
 ## Blogs and Columns
+
 | Title                                                      | Author         | Tags                        |
 |------------------------------------------------------------|----------------|-----------------------------|
 | [写点什么](https://t.me/s/verbatimetliteratim)             | Xiaxia         | writing, life               |
@@ -31,6 +32,7 @@ Contents:
 | [不如读书](https://wuyagege.substack.com/)                 | wuyagege       | history, politics           |
 
 ## YouTube channels
+
 | Channel                                                                 | Producer             | Tags             |
 |-------------------------------------------------------------------------|----------------------|------------------|
 | [Nami's life](https://www.youtube.com/@naminokurashi)                   | Nami                 | vlog             |
@@ -41,6 +43,14 @@ Contents:
 | [Computerphile](https://www.youtube.com/@Computerphile)                 | Sean Riley           | computer science |
 
 ## Books
+
+{{< book
+    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
+    link="https://book.douban.com/subject/3198682/"
+    title="从地球到月球"
+    attr="(2024/03/01 ~ )"
+>}}
+
 {{< book
     src="/book-covers/Berlin_Isaiah-The_Roots_of_Romanticism.jpg"
     link="https://book.douban.com/subject/3003032/"
@@ -136,13 +146,6 @@ Contents:
     src="https://images-cn.ssl-images-amazon.cn/images/I/41Rflbz4DvL.jpg"
     link="https://book.douban.com/subject/35778225/"
     title="与父亲的奥德赛"
-    attr="(2023/04/__ ~ )"
->}}
-
-{{< book
-    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
-    link="https://book.douban.com/subject/3198682/"
-    title="从地球到月球"
     attr="(2023/04/__ ~ )"
 >}}
 
