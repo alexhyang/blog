@@ -45,13 +45,6 @@ Contents:
 ## Books
 
 {{< book
-    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
-    link="https://book.douban.com/subject/3198682/"
-    title="从地球到月球"
-    attr="(2024/03/01 ~ )"
->}}
-
-{{< book
     src="/book-covers/Berlin_Isaiah-The_Roots_of_Romanticism.jpg"
     link="https://book.douban.com/subject/3003032/"
     title="The Roots of Romanticism"
@@ -167,6 +160,14 @@ Contents:
 *  [[卡尔维诺]](https://search.douban.com/book/subject_search?search_text=%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA&cat=1001)
 
 ### Read
+
+{{< book
+    src="https://m.media-amazon.com/images/I/51CrKguKyAL.jpg"
+    link="https://book.douban.com/subject/3198682/"
+    title="从地球到月球"
+    attr="(2024/03/01 ~ 03/21)"
+>}}
+尽管小说缺乏一些科学严谨性，但这并不会掩盖想象力的光芒。
 
 {{< book
     src="/book-covers/Hawking_Stephen-A_Brief_History_of_Time.jpg"
